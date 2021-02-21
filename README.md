@@ -25,7 +25,7 @@ I program in Python! I make microservers and Discord bots! My favorite Python mo
 - discord.py
 - Flask/Quart
 
-![Code's github stats](https://github-readme-stats.vercel.app/api?username=codeiz&count_private=true&theme=dark)\
+![Code's github stats](https://github-readme-stats.vercel.app/api?username=codeize&count_private=true&theme=dark)\
 ![1](https://github-readme-stats.vercel.app/api/top-langs/?username=codeize&count_private=true&theme=dark)
 
 
