@@ -1,14 +1,13 @@
 # Hi there, I'm Code! 👋🏽
 [![forthebadge](https://forthebadge.com/images/badges/0-percent-optimized.svg)](https://forthebadge.com)\
-[![forthebadge](https://forthebadge.com/images/badges/built-with-swag.svg)](https://forthebadge.com)\
+[![forthebadge](https://forthebadge.com/images/badges/built-with-code.svg)](https://forthebadge.com)\
 ![](https://komarev.com/ghpvc/?username=isigebengu-mikey)
 <!--
-**isigebengu-mikey/isigebengu-mikey** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**codeize/codeize** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 Here are some ideas to get you started:
 -->
 - 🔭 I’m currently working on a a discord bot!
-- 🌱 I’m currently learning `Java` and `C++`
-- 👯 I’m looking to collaborate for my moderation bot! DM me!
+- 🌱 I’m currently learning `Java` and `C#`!
 <!--
 - 🤔 I’m looking for help with ...
 -->
