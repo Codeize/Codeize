@@ -1,6 +1,6 @@
 # Hi there, I'm Code! 👋🏽
 [![forthebadge](https://forthebadge.com/images/badges/0-percent-optimized.svg)](https://forthebadge.com)\
-[![forthebadge](https://forthebadge.com/images/badges/built-with-code.svg)](https://forthebadge.com)\
+[![forthebadge](https://forthebadge.com/images/badges/fuck-it-ship-it.svg)](https://forthebadge.com)\
 ![](https://komarev.com/ghpvc/?username=isigebengu-mikey)
 <!--
 **codeize/codeize** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
