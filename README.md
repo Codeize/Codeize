@@ -16,14 +16,13 @@ Here are some ideas to get you started:
 
 # My Skills
 ```py
-if mikey.can_speak(py):
+if codeize.can_code(py):
   print("🐍")
  
 >> 🐍
 ```
 
 I program in Python! I make microservers and Discord bots! My favorite Python modules are:
-- Colorama
 - discord.py
 - Flask/Quart
 
