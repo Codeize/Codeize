@@ -31,7 +31,7 @@ I program in Python! I make microservers and Discord bots! My favorite Python mo
 ![1](https://github-readme-stats.vercel.app/api/top-langs/?username=codeize&count_private=true&theme=dark)
 
 # Some of my projects!
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=codeize&repo=hyphenpy&theme=dark&)](https://github.com/codeize/hyphenpy)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=codeize&repo=watchdog&theme=dark&)](https://github.com/codeize/hyphenpy)
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=fransallen&repo=thedev.id&theme=dark&)](https://github.com/fransallen/thedev.id)
 
 <!--
