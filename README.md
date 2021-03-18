@@ -1,6 +1,7 @@
 # Hi there, I'm Code! 👋
 [![forthebadge](https://forthebadge.com/images/badges/0-percent-optimized.svg)](https://forthebadge.com)\
 [![forthebadge](https://forthebadge.com/images/badges/fuck-it-ship-it.svg)](https://forthebadge.com)\
+![](https://komarev.com/ghpvc/?username=codeize)
 <!--
 **codeize/codeize** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 Here are some ideas to get you started:
