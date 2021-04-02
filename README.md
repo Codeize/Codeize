@@ -28,12 +28,11 @@ if codeize.can_code(py):
 I program in Python! I make microservers and Discord bots! My favorite Python modules are:
 - discord.py
 
-I also enjoy making websites!
-- Some of my web development works are: [codeize.dev](https://codeize.dev), [tickit.tk](https://https://tickit.tk), [news.codeize.dev](https://news.codeize.dev), [status.trungbot.tk](https://status.trungbot.tk) and [thedev.id](https://thedev.id)!
+I also enjoy making websites! I mainly use HTML, CSS and JS. But I have some experience with Flask, React and Vue! And I'm looking to advance my skills in React!
+- Some of my web development works are: [codeize.dev](https://codeize.dev), [tickit.tk](https://tickit.tk), [news.codeize.dev](https://news.codeize.dev), [status.trungbot.tk](https://status.trungbot.tk) and [thedev.id](https://thedev.id)!
 
 ![Code's github stats](https://github-readme-stats.vercel.app/api?username=codeize&count_private=true&theme=dark)\
 ![1](https://github-readme-stats.vercel.app/api/top-langs/?username=codeize&count_private=true&theme=dark)
 
 # Some of my projects!
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=codeize&repo=watchdog&theme=dark&)](https://github.com/codeize/watchdog)
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=fransallen&repo=thedev.id&theme=dark&)](https://github.com/fransallen/thedev.id)
