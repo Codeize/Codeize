@@ -40,3 +40,5 @@ I also enjoy making websites! I mainly use HTML, CSS and JS. But I have some exp
 
 # Some of my projects!
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=fransallen&repo=thedev.id&theme=dark&)](https://github.com/fransallen/thedev.id)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=codeize&repo=betterenv&theme=dark&)](https://github.com/codeize/betterenv)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=codeize&repo=watchdog&theme=dark&)](https://github.com/codeize/watchdog)
