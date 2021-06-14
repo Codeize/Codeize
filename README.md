@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 🌱 I’m currently coding a lot in `Python` and `JavaScript`!
 - 🇮🇪  I live in Ireland!
 - 📝 I enjoy playing video games and watching Netflix in my spare time, apart from coding of course!
-- 🔔 You can contact me on Discord at Codeize#0001 or contact me on my [website](https://codeize.dev/#contact)!
+- 🔔 You can contact me on Discord at Codeize#6946 or contact me on my [website](https://codeize.dev/#contact)!
 - 👯 I’m looking to collaborate on [BetterEnv](https://github.com/Codeize/BetterEnv) and [Watchdog](https://github.com/Codeize/Watchdog)
 <!--
 - 🤔 I’m looking for help with ...
@@ -37,7 +37,7 @@ I program in Python and JavaScript! I make microservers and Discord bots! My fav
 - React
 
 I also enjoy making websites! I mainly use HTML, CSS and JS. But I have some experience with Flask, React and Vue! And I'm looking to advance my skills in React!
-- Some of my web development works are: [codeize.dev](https://codeize.dev), [tickit.tk](https://tickit.tk), [news.codeize.dev](https://news.codeize.dev) and [thedev.id](https://thedev.id)!
+- Some of my web development works are: [codeize.dev](https://codeize.dev), [betterenv.xyz](https://betterenv.xyz), [news.codeize.dev](https://news.codeize.dev) and [thedev.id](https://thedev.id)!
 
 ![Code's github stats](https://github-readme-stats.vercel.app/api?username=codeize&count_private=true&theme=dark)\
 ![1](https://github-readme-stats.vercel.app/api/top-langs/?username=codeize&count_private=true&theme=dark)
