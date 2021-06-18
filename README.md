@@ -1,4 +1,5 @@
 # Hi there, I'm Code! 👋
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=av3h9dhe0rlwk1wi7e5f9mwhg&cover_image=true&theme=compact)](https://spotify-github-profile.vercel.app/api/view?uid=av3h9dhe0rlwk1wi7e5f9mwhg&redirect=true)\
 [![forthebadge](https://forthebadge.com/images/badges/0-percent-optimized.svg)](https://forthebadge.com)\
 [![forthebadge](https://forthebadge.com/images/badges/fuck-it-ship-it.svg)](https://forthebadge.com)\
 ![](https://komarev.com/ghpvc/?username=codeize)
