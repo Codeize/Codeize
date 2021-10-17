@@ -8,7 +8,7 @@
 [![spotify](https://nocache.advaith.workers.dev?url=https://img.shields.io/endpoint?url=https://dev.discordprofiles.me/api/badge/spotify/668423998777982997)](https://dev.discordprofiles.me/openspotify/668423998777982997)
 
 # My Skills
-lol
+lmao
 
 # Stats
 
