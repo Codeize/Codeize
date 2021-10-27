@@ -7,8 +7,11 @@
 ![vscode](https://nocache.advaith.workers.dev?url=https://img.shields.io/endpoint?url=https://dev.discordprofiles.me/api/badge/vscode/668423998777982997)
 [![spotify](https://nocache.advaith.workers.dev?url=https://img.shields.io/endpoint?url=https://dev.discordprofiles.me/api/badge/spotify/668423998777982997)](https://dev.discordprofiles.me/openspotify/668423998777982997)
 
-# My Skills
-lmfao
+# What I'm doing
+## I use TS/JS mainly.
+- Working on [Dmod](https://dmod.gg)
+- Working on [CrowdControl](https://github.com/CrowdControlBot)
+- Working on [FBot V2](https://github.com/Codeize/FBot-Rewrite)
 
 # Stats
 
