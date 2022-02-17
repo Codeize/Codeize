@@ -8,7 +8,7 @@
 [![spotify](https://nocache.advaith.workers.dev?url=https://img.shields.io/endpoint?url=https://dev.discordprofiles.me/api/badge/spotify/668423998777982997)](https://dev.discordprofiles.me/openspotify/668423998777982997)
 
 # Server
-[![widget](https://invidget.switchblade.xyz/854739172580655134)](https://discord.gg/tZAemYfPda)
+[![discord](https://invidget.switchblade.xyz/ZsJnSxHdgD)](https://discord.gg/ZsJnSxHdgD)
 
 # What I'm doing
 - Working on [Dmod](https://dmod.gg)
@@ -19,5 +19,7 @@
 
 ![Github stats](https://github-readme-stats.vercel.app/api?username=codeize&theme=blueberry&count_private=true&hide_border=true&line_height=25)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=codeize&layout=compact&theme=blueberry&count_private=true&hide_border=true&line_height=25)
+#
 ![GitHub metrics](https://metrics.lecoq.io/codeize)
+#
 ![Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=codeize)
