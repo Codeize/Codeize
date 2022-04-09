@@ -7,9 +7,6 @@
 ![vscode](https://nocache.advaith.workers.dev?url=https://img.shields.io/endpoint?url=https://dev.discordprofiles.me/api/badge/vscode/668423998777982997)
 [![spotify](https://nocache.advaith.workers.dev?url=https://img.shields.io/endpoint?url=https://dev.discordprofiles.me/api/badge/spotify/668423998777982997)](https://dev.discordprofiles.me/openspotify/668423998777982997)
 
-# Me!!!!
-[![me](https://api.panleyent.com/webence/widget/small/?id=668423998777982997)](https://discord.com/users/668423998777982997)
-
 # Server
 [![discord](https://invidget.switchblade.xyz/ZsJnSxHdgD)](https://discord.gg/ZsJnSxHdgD)
 
