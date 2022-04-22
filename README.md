@@ -11,9 +11,8 @@
 [![discord](https://invidget.switchblade.xyz/ZsJnSxHdgD)](https://discord.gg/ZsJnSxHdgD)
 
 # What I'm doing
-- Working on [Dmod](https://dmod.gg) | [GitHub](https://github.com/TeamDmod)
+- Working on [SWAT](https://swat.norden.wtf) | [GitHub](https://github.com/Codeize/SWAT)
 - Working on [TeamNorden](https://github.com/TeamNorden)
-- Working on [Watchdog](https://github.com/TeamWatchdog)
 
 # Stats
 
