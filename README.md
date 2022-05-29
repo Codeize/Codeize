@@ -19,13 +19,11 @@
     <img src="https://nocache.advaith.workers.dev?url=https://img.shields.io/endpoint?url=https://dev.discordprofiles.me/api/badge/playing/668423998777982997" />
     <img src="https://nocache.advaith.workers.dev?url=https://img.shields.io/endpoint?url=https://dev.discordprofiles.me/api/badge/spotify/668423998777982997" />
     <img src="https://komarev.com/ghpvc/?username=codeize" />
+    <a href="https://discord.gg/ZsJnSxHdgD"><img src="https://invidget.switchblade.xyz/ZsJnSxHdgD" /></a>
   </a>
 </p>
 
-<!--START_SECTION:activity-->
-1. ❗️ Opened issue [#31](https://github.com/TeamNorden/SWAT/issues/31) in [TeamNorden/SWAT](https://github.com/TeamNorden/SWAT)
-2. ❗️ Opened issue [#30](https://github.com/TeamNorden/SWAT/issues/30) in [TeamNorden/SWAT](https://github.com/TeamNorden/SWAT)
-3. ❗️ Closed issue [#29](https://github.com/TeamNorden/SWAT/issues/29) in [TeamNorden/SWAT](https://github.com/TeamNorden/SWAT)
-4. ❗️ Opened issue [#29](https://github.com/TeamNorden/SWAT/issues/29) in [TeamNorden/SWAT](https://github.com/TeamNorden/SWAT)
-5. ❗️ Opened issue [#28](https://github.com/TeamNorden/SWAT/issues/28) in [TeamNorden/SWAT](https://github.com/TeamNorden/SWAT)
-<!--END_SECTION:activity-->
+
+<p align="center">
+    <!--START_SECTION:activity-->
+</p>
