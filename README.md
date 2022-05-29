@@ -3,7 +3,7 @@
 </p>
 
 <h1 align="center">
-    👋 i'm Codeize!
+    👋 i'm codeize!
 </h1>
 
 <p align="center">
@@ -22,9 +22,4 @@
   </a>
 </p>
 
-# Server
-[![discord](https://invidget.switchblade.xyz/ZsJnSxHdgD)](https://discord.gg/ZsJnSxHdgD)
-
-# What I'm doing
-- Working on [SWAT](https://swat.norden.wtf) | [GitHub](https://github.com/Codeize/SWAT)
-- Working on [TeamNorden](https://github.com/TeamNorden)
+<!--START_SECTION:activity-->
