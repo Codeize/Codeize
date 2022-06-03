@@ -24,15 +24,15 @@
 </p>
 
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [revoltchat/backend](https://github.com/revoltchat/backend)
-2. ⭐ Starred [discordjs/website](https://github.com/discordjs/website)
-3. ⭐ Starred [ChatSift/modmail](https://github.com/ChatSift/modmail)
-4. 💬 Commented on [#27](https://github.com/revoltchat/documentation/pull/27#issuecomment-1141415463) in [revoltchat/documentation](https://github.com/revoltchat/documentation)
-5. 📔 Created new repository [Codeize/ShieldBot](https://github.com/Codeize/ShieldBot)
+1. ❗️ Opened issue [#18](https://github.com/janderedev/automod/issues/18) in [janderedev/automod](https://github.com/janderedev/automod)
+2. ⭐ Starred [revoltchat/backend](https://github.com/revoltchat/backend)
+3. ⭐ Starred [discordjs/website](https://github.com/discordjs/website)
+4. ⭐ Starred [ChatSift/modmail](https://github.com/ChatSift/modmail)
+5. 💬 Commented on [#27](https://github.com/revoltchat/documentation/pull/27#issuecomment-1141415463) in [revoltchat/documentation](https://github.com/revoltchat/documentation)
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Friday, June 3rd, 2022, 10:39:52 AM
+Last Updated: Friday, June 3rd, 2022, 11:09:21 AM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 <details align="center">
