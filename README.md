@@ -24,15 +24,15 @@
 </p>
 
 <!--RECENT_ACTIVITY:start-->
-1. ❗️ Opened issue [#18](https://github.com/janderedev/automod/issues/18) in [janderedev/automod](https://github.com/janderedev/automod)
-2. ⭐ Starred [revoltchat/backend](https://github.com/revoltchat/backend)
-3. ⭐ Starred [discordjs/website](https://github.com/discordjs/website)
-4. ⭐ Starred [ChatSift/modmail](https://github.com/ChatSift/modmail)
-5. 💬 Commented on [#27](https://github.com/revoltchat/documentation/pull/27#issuecomment-1141415463) in [revoltchat/documentation](https://github.com/revoltchat/documentation)
+1. ⭐ Starred [Explosion-Scratch/Chii-Onan-starred-this-repo](https://github.com/Explosion-Scratch/Chii-Onan-starred-this-repo)
+2. ❗️ Opened issue [#18](https://github.com/janderedev/automod/issues/18) in [janderedev/automod](https://github.com/janderedev/automod)
+3. ⭐ Starred [revoltchat/backend](https://github.com/revoltchat/backend)
+4. ⭐ Starred [discordjs/website](https://github.com/discordjs/website)
+5. ⭐ Starred [ChatSift/modmail](https://github.com/ChatSift/modmail)
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Sunday, June 5th, 2022, 8:35:46 PM
+Last Updated: Sunday, June 5th, 2022, 9:10:14 PM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 <details align="center">
