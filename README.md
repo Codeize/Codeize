@@ -24,15 +24,15 @@
 </p>
 
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [powercord-org/powercord](https://github.com/powercord-org/powercord)
-2. ⭐ Starred [Schweinepriester/github-profile-achievements](https://github.com/Schweinepriester/github-profile-achievements)
-3. 💬 Commented on [#25507](https://github.com/atom/atom/issues/25507#issuecomment-1151133421) in [atom/atom](https://github.com/atom/atom)
-4. 💬 Commented on [#25496](https://github.com/atom/atom/issues/25496#issuecomment-1150421482) in [atom/atom](https://github.com/atom/atom)
-5. ⭐ Starred [Explosion-Scratch/Chii-Onan-starred-this-repo](https://github.com/Explosion-Scratch/Chii-Onan-starred-this-repo)
+1. ⭐ Starred [mixtape-bot/deck.js](https://github.com/mixtape-bot/deck.js)
+2. ⭐ Starred [powercord-org/powercord](https://github.com/powercord-org/powercord)
+3. ⭐ Starred [Schweinepriester/github-profile-achievements](https://github.com/Schweinepriester/github-profile-achievements)
+4. 💬 Commented on [#25507](https://github.com/atom/atom/issues/25507#issuecomment-1151133421) in [atom/atom](https://github.com/atom/atom)
+5. 💬 Commented on [#25496](https://github.com/atom/atom/issues/25496#issuecomment-1150421482) in [atom/atom](https://github.com/atom/atom)
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Monday, June 13th, 2022, 11:36:39 PM
+Last Updated: Tuesday, June 14th, 2022, 1:08:59 AM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 <details align="center">
