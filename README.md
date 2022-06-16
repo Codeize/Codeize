@@ -26,13 +26,13 @@
 <!--RECENT_ACTIVITY:start-->
 1. ⬆️ Pushed 1 commit(s) to [TeamRapid/.github](https://github.com/TeamRapid/.github)
 2. ⬆️ Pushed 1 commit(s) to [TeamRapid/.github](https://github.com/TeamRapid/.github)
-3. ⭐ Starred [mixtape-bot/deck.js](https://github.com/mixtape-bot/deck.js)
-4. ⭐ Starred [powercord-org/powercord](https://github.com/powercord-org/powercord)
-5. ⭐ Starred [Schweinepriester/github-profile-achievements](https://github.com/Schweinepriester/github-profile-achievements)
+3. ⬆️ Pushed 1 commit(s) to [TeamRapid/.github](https://github.com/TeamRapid/.github)
+4. ⭐ Starred [mixtape-bot/deck.js](https://github.com/mixtape-bot/deck.js)
+5. ⭐ Starred [powercord-org/powercord](https://github.com/powercord-org/powercord)
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Thursday, June 16th, 2022, 9:09:53 PM
+Last Updated: Thursday, June 16th, 2022, 9:36:06 PM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 <details align="center">
