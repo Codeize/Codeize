@@ -27,12 +27,12 @@
 1. ⬆️ Pushed 1 commit(s) to [TeamRapid/.github](https://github.com/TeamRapid/.github)
 2. ⬆️ Pushed 1 commit(s) to [TeamRapid/.github](https://github.com/TeamRapid/.github)
 3. ⬆️ Pushed 1 commit(s) to [TeamRapid/.github](https://github.com/TeamRapid/.github)
-4. ⭐ Starred [mixtape-bot/deck.js](https://github.com/mixtape-bot/deck.js)
-5. ⭐ Starred [powercord-org/powercord](https://github.com/powercord-org/powercord)
+4. ⬆️ Pushed 1 commit(s) to [TeamRapid/.github](https://github.com/TeamRapid/.github)
+5. ⭐ Starred [mixtape-bot/deck.js](https://github.com/mixtape-bot/deck.js)
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Thursday, June 16th, 2022, 9:36:06 PM
+Last Updated: Thursday, June 16th, 2022, 10:11:13 PM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 <details align="center">
