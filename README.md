@@ -24,15 +24,15 @@
 </p>
 
 <!--RECENT_ACTIVITY:start-->
-1. 💬 Commented on [#1](https://github.com/OtterDevelopment/typescript-discord-boilerplate/issues/1#issuecomment-1160847987) in [OtterDevelopment/typescript-discord-boilerplate](https://github.com/OtterDevelopment/typescript-discord-boilerplate)
-2. ⬆️ Pushed 1 commit(s) to [TeamRapid/.github](https://github.com/TeamRapid/.github)
+1. ⭐ Starred [DiscordTauri/discord-tauri](https://github.com/DiscordTauri/discord-tauri)
+2. 💬 Commented on [#1](https://github.com/OtterDevelopment/typescript-discord-boilerplate/issues/1#issuecomment-1160847987) in [OtterDevelopment/typescript-discord-boilerplate](https://github.com/OtterDevelopment/typescript-discord-boilerplate)
 3. ⬆️ Pushed 1 commit(s) to [TeamRapid/.github](https://github.com/TeamRapid/.github)
 4. ⬆️ Pushed 1 commit(s) to [TeamRapid/.github](https://github.com/TeamRapid/.github)
 5. ⬆️ Pushed 1 commit(s) to [TeamRapid/.github](https://github.com/TeamRapid/.github)
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Saturday, June 25th, 2022, 12:56:20 PM
+Last Updated: Saturday, June 25th, 2022, 1:21:37 PM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 <details align="center">
