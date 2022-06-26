@@ -24,15 +24,15 @@
 </p>
 
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [DiscordTauri/discord-tauri](https://github.com/DiscordTauri/discord-tauri)
-2. 💬 Commented on [#1](https://github.com/OtterDevelopment/typescript-discord-boilerplate/issues/1#issuecomment-1160847987) in [OtterDevelopment/typescript-discord-boilerplate](https://github.com/OtterDevelopment/typescript-discord-boilerplate)
-3. ⬆️ Pushed 1 commit(s) to [TeamRapid/.github](https://github.com/TeamRapid/.github)
+1. ❗️ Opened issue [#121](https://github.com/tandpfun/skill-icons/issues/121) in [tandpfun/skill-icons](https://github.com/tandpfun/skill-icons)
+2. ⭐ Starred [DiscordTauri/discord-tauri](https://github.com/DiscordTauri/discord-tauri)
+3. 💬 Commented on [#1](https://github.com/OtterDevelopment/typescript-discord-boilerplate/issues/1#issuecomment-1160847987) in [OtterDevelopment/typescript-discord-boilerplate](https://github.com/OtterDevelopment/typescript-discord-boilerplate)
 4. ⬆️ Pushed 1 commit(s) to [TeamRapid/.github](https://github.com/TeamRapid/.github)
 5. ⬆️ Pushed 1 commit(s) to [TeamRapid/.github](https://github.com/TeamRapid/.github)
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Sunday, June 26th, 2022, 8:36:46 PM
+Last Updated: Sunday, June 26th, 2022, 9:09:19 PM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 <details align="center">
