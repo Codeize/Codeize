@@ -24,15 +24,15 @@
 </p>
 
 <!--RECENT_ACTIVITY:start-->
-1. ❗️ Opened issue [#121](https://github.com/tandpfun/skill-icons/issues/121) in [tandpfun/skill-icons](https://github.com/tandpfun/skill-icons)
-2. ⭐ Starred [DiscordTauri/discord-tauri](https://github.com/DiscordTauri/discord-tauri)
-3. 💬 Commented on [#1](https://github.com/OtterDevelopment/typescript-discord-boilerplate/issues/1#issuecomment-1160847987) in [OtterDevelopment/typescript-discord-boilerplate](https://github.com/OtterDevelopment/typescript-discord-boilerplate)
-4. ⬆️ Pushed 1 commit(s) to [TeamRapid/.github](https://github.com/TeamRapid/.github)
-5. ⬆️ Pushed 1 commit(s) to [TeamRapid/.github](https://github.com/TeamRapid/.github)
+1. ⭐ Starred [vcokltfre/volcan](https://github.com/vcokltfre/volcan)
+2. ⭐ Starred [ChatSift/dashboard](https://github.com/ChatSift/dashboard)
+3. ⭐ Starred [ChatSift/api](https://github.com/ChatSift/api)
+4. ⭐ Starred [ChatSift/utilities](https://github.com/ChatSift/utilities)
+5. ❗️ Opened issue [#121](https://github.com/tandpfun/skill-icons/issues/121) in [tandpfun/skill-icons](https://github.com/tandpfun/skill-icons)
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Wednesday, June 29th, 2022, 1:10:09 PM
+Last Updated: Wednesday, June 29th, 2022, 1:54:28 PM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 <details align="center">
