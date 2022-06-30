@@ -24,15 +24,15 @@
 </p>
 
 <!--RECENT_ACTIVITY:start-->
-1. 💬 Commented on [#120](https://github.com/tandpfun/skill-icons/issues/120#issuecomment-1170124073) in [tandpfun/skill-icons](https://github.com/tandpfun/skill-icons)
-2. ⭐ Starred [vcokltfre/volcan](https://github.com/vcokltfre/volcan)
+1. ⭐ Starred [ChatSift/template](https://github.com/ChatSift/template)
+2. ⭐ Starred [ChatSift/api](https://github.com/ChatSift/api)
 3. ⭐ Starred [ChatSift/dashboard](https://github.com/ChatSift/dashboard)
-4. ⭐ Starred [ChatSift/api](https://github.com/ChatSift/api)
-5. ⭐ Starred [ChatSift/utilities](https://github.com/ChatSift/utilities)
+4. ⭐ Starred [ChatSift/utilities](https://github.com/ChatSift/utilities)
+5. ⭐ Starred [denoland/fresh](https://github.com/denoland/fresh)
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Thursday, June 30th, 2022, 9:37:53 PM
+Last Updated: Thursday, June 30th, 2022, 10:11:37 PM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 <details align="center">
