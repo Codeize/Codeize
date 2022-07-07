@@ -24,15 +24,15 @@
 </p>
 
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [Jarred-Sumner/bun](https://github.com/Jarred-Sumner/bun)
-2. ⬆️ Pushed 1 commit(s) to [ChatSift/ModMail](https://github.com/ChatSift/ModMail)
-3. 💪 Opened PR [#23](https://github.com/ChatSift/ModMail/pull/23) in [ChatSift/ModMail](https://github.com/ChatSift/ModMail)
-4. ⭐ Starred [ChatSift/template](https://github.com/ChatSift/template)
-5. ⭐ Starred [ChatSift/api](https://github.com/ChatSift/api)
+1. ⭐ Starred [discordjs/voice-examples](https://github.com/discordjs/voice-examples)
+2. ⭐ Starred [Jarred-Sumner/bun](https://github.com/Jarred-Sumner/bun)
+3. ⬆️ Pushed 1 commit(s) to [ChatSift/ModMail](https://github.com/ChatSift/ModMail)
+4. 💪 Opened PR [#23](https://github.com/ChatSift/ModMail/pull/23) in [ChatSift/ModMail](https://github.com/ChatSift/ModMail)
+5. ⭐ Starred [ChatSift/template](https://github.com/ChatSift/template)
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Thursday, July 7th, 2022, 3:43:04 PM
+Last Updated: Thursday, July 7th, 2022, 4:19:08 PM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 <details align="center">
