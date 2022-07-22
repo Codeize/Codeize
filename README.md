@@ -24,15 +24,15 @@
 </p>
 
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [IanMitchell/interaction-kit](https://github.com/IanMitchell/interaction-kit)
-2. ⭐ Starred [yoki-labs/starboard](https://github.com/yoki-labs/starboard)
-3. ⭐ Starred [xHyroM/bun-discord-bot](https://github.com/xHyroM/bun-discord-bot)
-4. ✔️ Closed issue [#4](https://github.com/Codeize/Codeize/issues/4) in [Codeize/Codeize](https://github.com/Codeize/Codeize)
-5. ❗️ Opened issue [#4](https://github.com/Codeize/Codeize/issues/4) in [Codeize/Codeize](https://github.com/Codeize/Codeize)
+1. ⭐ Starred [carbon-language/carbon-lang](https://github.com/carbon-language/carbon-lang)
+2. ⭐ Starred [IanMitchell/interaction-kit](https://github.com/IanMitchell/interaction-kit)
+3. ⭐ Starred [yoki-labs/starboard](https://github.com/yoki-labs/starboard)
+4. ⭐ Starred [xHyroM/bun-discord-bot](https://github.com/xHyroM/bun-discord-bot)
+5. ✔️ Closed issue [#4](https://github.com/Codeize/Codeize/issues/4) in [Codeize/Codeize](https://github.com/Codeize/Codeize)
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Friday, July 22nd, 2022, 8:39:32 PM
+Last Updated: Friday, July 22nd, 2022, 9:10:39 PM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 <details align="center">
