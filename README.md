@@ -24,15 +24,15 @@
 </p>
 
 <!--RECENT_ACTIVITY:start-->
-1. ⬆️ Pushed 1 commit(s) to [Codeize/template](https://github.com/Codeize/template)
-2. 👍 Approved [#85](https://github.com/labdiscord/statcord.js/pull/85#pullrequestreview-1053305442) in [labdiscord/statcord.js](https://github.com/labdiscord/statcord.js)
-3. 💬 Commented on [#85](https://github.com/labdiscord/statcord.js/pull/85#issuecomment-1197454261) in [labdiscord/statcord.js](https://github.com/labdiscord/statcord.js)
+1. ⭐ Starred [harshhhdev/kmenu](https://github.com/harshhhdev/kmenu)
+2. ⬆️ Pushed 1 commit(s) to [Codeize/template](https://github.com/Codeize/template)
+3. ⬆️ Pushed 1 commit(s) to [Codeize/template](https://github.com/Codeize/template)
 4. ⬆️ Pushed 1 commit(s) to [Codeize/template](https://github.com/Codeize/template)
-5. ⬆️ Pushed 1 commit(s) to [Codeize/template](https://github.com/Codeize/template)
+5. 👍 Approved [#85](https://github.com/labdiscord/statcord.js/pull/85#pullrequestreview-1053305442) in [labdiscord/statcord.js](https://github.com/labdiscord/statcord.js)
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Thursday, July 28th, 2022, 2:39:53 PM
+Last Updated: Thursday, July 28th, 2022, 3:12:09 PM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 <details align="center">
