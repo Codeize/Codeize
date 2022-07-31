@@ -24,6 +24,7 @@
 </p>
 
 <!--RECENT_ACTIVITY:start-->
+sui
 1. 📔 Created new repository [Codeize/MessageDetector](https://github.com/Codeize/MessageDetector)
 2. ⬆️ Pushed 1 commit(s) to [Codeize/template](https://github.com/Codeize/template)
 3. ⭐ Starred [harshhhdev/kmenu](https://github.com/harshhhdev/kmenu)
