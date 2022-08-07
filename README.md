@@ -24,15 +24,15 @@
 </p>
 
 <!--RECENT_ACTIVITY:start-->
-1. ⬆️ Pushed 2 commit(s) to [TeamNorden/SWAT](https://github.com/TeamNorden/SWAT)
-2. 🎉 Merged PR [#34](https://github.com/TeamNorden/SWAT/pull/34) in [TeamNorden/SWAT](https://github.com/TeamNorden/SWAT)
-3. 💪 Opened PR [#34](https://github.com/TeamNorden/SWAT/pull/34) in [TeamNorden/SWAT](https://github.com/TeamNorden/SWAT)
-4. ⬆️ Pushed 1 commit(s) to [Codeize/SWAT](https://github.com/Codeize/SWAT)
-5. 🔱 Forked [Codeize/SWAT](https://github.com/Codeize/SWAT) from [TeamNorden/SWAT](https://github.com/TeamNorden/SWAT)
+1. 💬 Commented on [#85](https://github.com/labdiscord/statcord.js/pull/85#issuecomment-1207447962) in [labdiscord/statcord.js](https://github.com/labdiscord/statcord.js)
+2. 💬 Commented on [#85](https://github.com/labdiscord/statcord.js/pull/85#issuecomment-1207446134) in [labdiscord/statcord.js](https://github.com/labdiscord/statcord.js)
+3. ⬆️ Pushed 2 commit(s) to [TeamNorden/SWAT](https://github.com/TeamNorden/SWAT)
+4. 🎉 Merged PR [#34](https://github.com/TeamNorden/SWAT/pull/34) in [TeamNorden/SWAT](https://github.com/TeamNorden/SWAT)
+5. 💪 Opened PR [#34](https://github.com/TeamNorden/SWAT/pull/34) in [TeamNorden/SWAT](https://github.com/TeamNorden/SWAT)
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Sunday, August 7th, 2022, 4:50:05 PM
+Last Updated: Sunday, August 7th, 2022, 5:11:55 PM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 <details align="center">
