@@ -24,15 +24,15 @@
 </p>
 
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [fireship-io/flamethrower](https://github.com/fireship-io/flamethrower)
-2. ⬆️ Pushed 1 commit(s) to [TeamWatchdog/status](https://github.com/TeamWatchdog/status)
-3. ⬆️ Pushed 1 commit(s) to [Codeize/assets](https://github.com/Codeize/assets)
-4. 📔 Created new repository [Codeize/assets](https://github.com/Codeize/assets)
-5. 💬 Commented on [#85](https://github.com/labdiscord/statcord.js/pull/85#issuecomment-1207447962) in [labdiscord/statcord.js](https://github.com/labdiscord/statcord.js)
+1. ⭐ Starred [alii/nextjs-discord-oauth](https://github.com/alii/nextjs-discord-oauth)
+2. ⭐ Starred [fireship-io/flamethrower](https://github.com/fireship-io/flamethrower)
+3. ⬆️ Pushed 1 commit(s) to [TeamWatchdog/status](https://github.com/TeamWatchdog/status)
+4. ⬆️ Pushed 1 commit(s) to [Codeize/assets](https://github.com/Codeize/assets)
+5. 📔 Created new repository [Codeize/assets](https://github.com/Codeize/assets)
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Friday, August 19th, 2022, 12:22:05 PM
+Last Updated: Friday, August 19th, 2022, 1:07:04 PM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 <details align="center">
