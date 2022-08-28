@@ -25,15 +25,15 @@
 </p>
 
 <!--RECENT_ACTIVITY:start-->
-1. ❗️ Opened issue [#1](https://github.com/Conrad306/conrad306/issues/1) in [Conrad306/conrad306](https://github.com/Conrad306/conrad306)
-2. ⬆️ Pushed 1 commit(s) to [Codeize/Codeize](https://github.com/Codeize/Codeize)
-3. ⭐ Starred [EvolutionX-10/Radon](https://github.com/EvolutionX-10/Radon)
-4. 📔 Created new repository [TeamNorden/graveyard](https://github.com/TeamNorden/graveyard)
-5. ⭐ Starred [alii/nextjs-discord-oauth](https://github.com/alii/nextjs-discord-oauth)
+1. ❗️ Opened issue [#308](https://github.com/discordlist-gg/beta-issues/issues/308) in [discordlist-gg/beta-issues](https://github.com/discordlist-gg/beta-issues)
+2. ❗️ Opened issue [#307](https://github.com/discordlist-gg/beta-issues/issues/307) in [discordlist-gg/beta-issues](https://github.com/discordlist-gg/beta-issues)
+3. ❗️ Opened issue [#1](https://github.com/Conrad306/conrad306/issues/1) in [Conrad306/conrad306](https://github.com/Conrad306/conrad306)
+4. ⬆️ Pushed 1 commit(s) to [Codeize/Codeize](https://github.com/Codeize/Codeize)
+5. ⭐ Starred [EvolutionX-10/Radon](https://github.com/EvolutionX-10/Radon)
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Sunday, August 28th, 2022, 2:36:28 PM
+Last Updated: Sunday, August 28th, 2022, 3:12:03 PM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 <details align="center">
