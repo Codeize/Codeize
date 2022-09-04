@@ -25,15 +25,15 @@
 </p>
 
 <!--RECENT_ACTIVITY:start-->
-1. ⬆️ Pushed 1 commit(s) to [DaniDiscord/Dani-Server-Utils](https://github.com/DaniDiscord/Dani-Server-Utils)
-2. ⭐ Starred [calcom/linear-to-github](https://github.com/calcom/linear-to-github)
-3. ❗️ Opened issue [#4](https://github.com/DaniDiscord/Dani-Server-Utils/issues/4) in [DaniDiscord/Dani-Server-Utils](https://github.com/DaniDiscord/Dani-Server-Utils)
-4. ❗️ Opened issue [#3](https://github.com/DaniDiscord/Dani-Server-Utils/issues/3) in [DaniDiscord/Dani-Server-Utils](https://github.com/DaniDiscord/Dani-Server-Utils)
-5. ❗️ Opened issue [#2](https://github.com/DaniDiscord/Dani-Server-Utils/issues/2) in [DaniDiscord/Dani-Server-Utils](https://github.com/DaniDiscord/Dani-Server-Utils)
+1. ⭐ Starred [knightlyjs/knightly](https://github.com/knightlyjs/knightly)
+2. ⬆️ Pushed 1 commit(s) to [DaniDiscord/Dani-Server-Utils](https://github.com/DaniDiscord/Dani-Server-Utils)
+3. ⭐ Starred [calcom/linear-to-github](https://github.com/calcom/linear-to-github)
+4. ❗️ Opened issue [#4](https://github.com/DaniDiscord/Dani-Server-Utils/issues/4) in [DaniDiscord/Dani-Server-Utils](https://github.com/DaniDiscord/Dani-Server-Utils)
+5. ❗️ Opened issue [#3](https://github.com/DaniDiscord/Dani-Server-Utils/issues/3) in [DaniDiscord/Dani-Server-Utils](https://github.com/DaniDiscord/Dani-Server-Utils)
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Sunday, September 4th, 2022, 11:35:15 AM
+Last Updated: Sunday, September 4th, 2022, 12:24:40 PM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 <details align="center">
