@@ -25,15 +25,15 @@
 </p>
 
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [Skelmis/Causar](https://github.com/Skelmis/Causar)
-2. ⭐ Starred [knightlyjs/knightly](https://github.com/knightlyjs/knightly)
-3. ⬆️ Pushed 1 commit(s) to [DaniDiscord/Dani-Server-Utils](https://github.com/DaniDiscord/Dani-Server-Utils)
-4. ⭐ Starred [calcom/linear-to-github](https://github.com/calcom/linear-to-github)
-5. ❗️ Opened issue [#4](https://github.com/DaniDiscord/Dani-Server-Utils/issues/4) in [DaniDiscord/Dani-Server-Utils](https://github.com/DaniDiscord/Dani-Server-Utils)
+1. ⭐ Starred [james7132/Hourai](https://github.com/james7132/Hourai)
+2. ⭐ Starred [Skelmis/Causar](https://github.com/Skelmis/Causar)
+3. ⭐ Starred [knightlyjs/knightly](https://github.com/knightlyjs/knightly)
+4. ⬆️ Pushed 1 commit(s) to [DaniDiscord/Dani-Server-Utils](https://github.com/DaniDiscord/Dani-Server-Utils)
+5. ⭐ Starred [calcom/linear-to-github](https://github.com/calcom/linear-to-github)
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Wednesday, September 7th, 2022, 8:43:50 PM
+Last Updated: Wednesday, September 7th, 2022, 9:11:49 PM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 <details align="center">
