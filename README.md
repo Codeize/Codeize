@@ -25,15 +25,15 @@
 </p>
 
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [james7132/Hourai](https://github.com/james7132/Hourai)
-2. ⭐ Starred [Skelmis/Causar](https://github.com/Skelmis/Causar)
-3. ⭐ Starred [knightlyjs/knightly](https://github.com/knightlyjs/knightly)
-4. ⬆️ Pushed 1 commit(s) to [DaniDiscord/Dani-Server-Utils](https://github.com/DaniDiscord/Dani-Server-Utils)
-5. ⭐ Starred [calcom/linear-to-github](https://github.com/calcom/linear-to-github)
+1. ⭐ Starred [ReGuilded/ReGuilded](https://github.com/ReGuilded/ReGuilded)
+2. ⭐ Starred [james7132/Hourai](https://github.com/james7132/Hourai)
+3. ⭐ Starred [Skelmis/Causar](https://github.com/Skelmis/Causar)
+4. ⭐ Starred [knightlyjs/knightly](https://github.com/knightlyjs/knightly)
+5. ⬆️ Pushed 1 commit(s) to [DaniDiscord/Dani-Server-Utils](https://github.com/DaniDiscord/Dani-Server-Utils)
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Thursday, September 8th, 2022, 7:11:35 PM
+Last Updated: Thursday, September 8th, 2022, 7:36:31 PM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 <details align="center">
