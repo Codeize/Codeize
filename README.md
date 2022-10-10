@@ -25,15 +25,15 @@
 </p>
 
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [JetBrains/ring-ui](https://github.com/JetBrains/ring-ui)
-2. ⭐ Starred [Vendicated/Vencord](https://github.com/Vendicated/Vencord)
-3. ⭐ Starred [PizzaPlace/docs](https://github.com/PizzaPlace/docs)
-4. 📔 Created new repository [PizzaPlace/docs](https://github.com/PizzaPlace/docs)
-5. ⭐ Starred [discordjs/discord-toolkit-bot](https://github.com/discordjs/discord-toolkit-bot)
+1. ⭐ Starred [recursiveGecko/race_bot](https://github.com/recursiveGecko/race_bot)
+2. ⭐ Starred [JetBrains/ring-ui](https://github.com/JetBrains/ring-ui)
+3. ⭐ Starred [Vendicated/Vencord](https://github.com/Vendicated/Vencord)
+4. ⭐ Starred [PizzaPlace/docs](https://github.com/PizzaPlace/docs)
+5. 📔 Created new repository [PizzaPlace/docs](https://github.com/PizzaPlace/docs)
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Monday, October 10th, 2022, 5:08:50 PM
+Last Updated: Monday, October 10th, 2022, 5:59:01 PM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 <details align="center">
