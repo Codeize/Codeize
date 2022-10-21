@@ -25,15 +25,15 @@
 </p>
 
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [recursiveGecko/race_bot](https://github.com/recursiveGecko/race_bot)
-2. ⭐ Starred [JetBrains/ring-ui](https://github.com/JetBrains/ring-ui)
-3. ⭐ Starred [Vendicated/Vencord](https://github.com/Vendicated/Vencord)
-4. ⭐ Starred [PizzaPlace/docs](https://github.com/PizzaPlace/docs)
-5. 📔 Created new repository [PizzaPlace/docs](https://github.com/PizzaPlace/docs)
+1. ⭐ Starred [rust-lang/this-week-in-rust](https://github.com/rust-lang/this-week-in-rust)
+2. ⭐ Starred [rust-lang/book](https://github.com/rust-lang/book)
+3. ⭐ Starred [recursiveGecko/race_bot](https://github.com/recursiveGecko/race_bot)
+4. ⭐ Starred [JetBrains/ring-ui](https://github.com/JetBrains/ring-ui)
+5. ⭐ Starred [Vendicated/Vencord](https://github.com/Vendicated/Vencord)
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Friday, October 21st, 2022, 5:45:45 AM
+Last Updated: Friday, October 21st, 2022, 6:30:29 AM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 <details align="center">
