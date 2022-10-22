@@ -25,15 +25,15 @@
 </p>
 
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [audn/react-boilerplate](https://github.com/audn/react-boilerplate)
-2. 💬 Commented on [#56](https://github.com/Snazzah/stub/issues/56#issuecomment-1287785942) in [Snazzah/stub](https://github.com/Snazzah/stub)
-3. ⭐ Starred [rust-lang/this-week-in-rust](https://github.com/rust-lang/this-week-in-rust)
-4. ⭐ Starred [rust-lang/book](https://github.com/rust-lang/book)
-5. ⭐ Starred [recursiveGecko/race_bot](https://github.com/recursiveGecko/race_bot)
+1. ⭐ Starred [bumble-tech/private-detector](https://github.com/bumble-tech/private-detector)
+2. ⭐ Starred [audn/react-boilerplate](https://github.com/audn/react-boilerplate)
+3. 💬 Commented on [#56](https://github.com/Snazzah/stub/issues/56#issuecomment-1287785942) in [Snazzah/stub](https://github.com/Snazzah/stub)
+4. ⭐ Starred [rust-lang/this-week-in-rust](https://github.com/rust-lang/this-week-in-rust)
+5. ⭐ Starred [rust-lang/book](https://github.com/rust-lang/book)
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Saturday, October 22nd, 2022, 8:44:56 PM
+Last Updated: Saturday, October 22nd, 2022, 9:12:15 PM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 <details align="center">
