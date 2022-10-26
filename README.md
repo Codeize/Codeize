@@ -25,15 +25,15 @@
 </p>
 
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [LukeMathWalker/build-your-own-jira-with-rust](https://github.com/LukeMathWalker/build-your-own-jira-with-rust)
-2. 💬 Commented on [#56](https://github.com/Snazzah/stub/issues/56#issuecomment-1288467326) in [Snazzah/stub](https://github.com/Snazzah/stub)
-3. 💬 Commented on [#56](https://github.com/Snazzah/stub/issues/56#issuecomment-1288175968) in [Snazzah/stub](https://github.com/Snazzah/stub)
-4. ⭐ Starred [bumble-tech/private-detector](https://github.com/bumble-tech/private-detector)
-5. ⭐ Starred [audn/react-boilerplate](https://github.com/audn/react-boilerplate)
+1. ⭐ Starred [shadcn/taxonomy](https://github.com/shadcn/taxonomy)
+2. ⭐ Starred [LukeMathWalker/build-your-own-jira-with-rust](https://github.com/LukeMathWalker/build-your-own-jira-with-rust)
+3. 💬 Commented on [#56](https://github.com/Snazzah/stub/issues/56#issuecomment-1288467326) in [Snazzah/stub](https://github.com/Snazzah/stub)
+4. 💬 Commented on [#56](https://github.com/Snazzah/stub/issues/56#issuecomment-1288175968) in [Snazzah/stub](https://github.com/Snazzah/stub)
+5. ⭐ Starred [bumble-tech/private-detector](https://github.com/bumble-tech/private-detector)
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Wednesday, October 26th, 2022, 6:16:17 PM
+Last Updated: Wednesday, October 26th, 2022, 6:47:17 PM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 <details align="center">
