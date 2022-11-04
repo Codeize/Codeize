@@ -25,15 +25,15 @@
 </p>
 
 <!--RECENT_ACTIVITY:start-->
-1. 💬 Commented on [#25](https://github.com/calcom/synclinear.com/issues/25#issuecomment-1303776028) in [calcom/synclinear.com](https://github.com/calcom/synclinear.com)
-2. ✔️ Closed issue [#25](https://github.com/calcom/synclinear.com/issues/25) in [calcom/synclinear.com](https://github.com/calcom/synclinear.com)
-3. 💬 Commented on [#25](https://github.com/calcom/synclinear.com/issues/25#issuecomment-1302598359) in [calcom/synclinear.com](https://github.com/calcom/synclinear.com)
-4. 💬 Commented on [#25](https://github.com/calcom/synclinear.com/issues/25#issuecomment-1302546463) in [calcom/synclinear.com](https://github.com/calcom/synclinear.com)
-5. ❗️ Opened issue [#25](https://github.com/calcom/synclinear.com/issues/25) in [calcom/synclinear.com](https://github.com/calcom/synclinear.com)
+1. ❗️ Opened issue [#26](https://github.com/calcom/synclinear.com/issues/26) in [calcom/synclinear.com](https://github.com/calcom/synclinear.com)
+2. 💬 Commented on [#25](https://github.com/calcom/synclinear.com/issues/25#issuecomment-1303776028) in [calcom/synclinear.com](https://github.com/calcom/synclinear.com)
+3. ✔️ Closed issue [#25](https://github.com/calcom/synclinear.com/issues/25) in [calcom/synclinear.com](https://github.com/calcom/synclinear.com)
+4. 💬 Commented on [#25](https://github.com/calcom/synclinear.com/issues/25#issuecomment-1302598359) in [calcom/synclinear.com](https://github.com/calcom/synclinear.com)
+5. 💬 Commented on [#25](https://github.com/calcom/synclinear.com/issues/25#issuecomment-1302546463) in [calcom/synclinear.com](https://github.com/calcom/synclinear.com)
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Friday, November 4th, 2022, 4:54:45 PM
+Last Updated: Friday, November 4th, 2022, 5:16:16 PM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 <details align="center">
