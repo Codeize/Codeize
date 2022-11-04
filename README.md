@@ -25,15 +25,15 @@
 </p>
 
 <!--RECENT_ACTIVITY:start-->
-1. 💬 Commented on [#25](https://github.com/calcom/synclinear.com/issues/25#issuecomment-1302598359) in [calcom/synclinear.com](https://github.com/calcom/synclinear.com)
-2. 💬 Commented on [#25](https://github.com/calcom/synclinear.com/issues/25#issuecomment-1302546463) in [calcom/synclinear.com](https://github.com/calcom/synclinear.com)
-3. ❗️ Opened issue [#25](https://github.com/calcom/synclinear.com/issues/25) in [calcom/synclinear.com](https://github.com/calcom/synclinear.com)
-4. ⭐ Starred [twidgeapp/twidge](https://github.com/twidgeapp/twidge)
-5. ❌ Closed PR [#21](https://github.com/harshhhdev/harshhhdev.github.io/pull/21) in [harshhhdev/harshhhdev.github.io](https://github.com/harshhhdev/harshhhdev.github.io)
+1. 💬 Commented on [#25](https://github.com/calcom/synclinear.com/issues/25#issuecomment-1303776028) in [calcom/synclinear.com](https://github.com/calcom/synclinear.com)
+2. ✔️ Closed issue [#25](https://github.com/calcom/synclinear.com/issues/25) in [calcom/synclinear.com](https://github.com/calcom/synclinear.com)
+3. 💬 Commented on [#25](https://github.com/calcom/synclinear.com/issues/25#issuecomment-1302598359) in [calcom/synclinear.com](https://github.com/calcom/synclinear.com)
+4. 💬 Commented on [#25](https://github.com/calcom/synclinear.com/issues/25#issuecomment-1302546463) in [calcom/synclinear.com](https://github.com/calcom/synclinear.com)
+5. ❗️ Opened issue [#25](https://github.com/calcom/synclinear.com/issues/25) in [calcom/synclinear.com](https://github.com/calcom/synclinear.com)
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Friday, November 4th, 2022, 3:12:38 PM
+Last Updated: Friday, November 4th, 2022, 3:43:11 PM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 <details align="center">
