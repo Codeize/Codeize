@@ -25,15 +25,15 @@
 </p>
 
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [JLarky/bitchimverified](https://github.com/JLarky/bitchimverified)
-2. ⭐ Starred [ChatSift/Roles](https://github.com/ChatSift/Roles)
-3. ⭐ Starred [PizzaPlace/pizzaman](https://github.com/PizzaPlace/pizzaman)
-4. ⭐ Starred [Disploy/disploy](https://github.com/Disploy/disploy)
-5. 🔱 Forked [Codeize/linear-app-discord](https://github.com/Codeize/linear-app-discord) from [ezolla/linear-app-discord](https://github.com/ezolla/linear-app-discord)
+1. ⭐ Starred [OfficialSirH/del-rs](https://github.com/OfficialSirH/del-rs)
+2. ⭐ Starred [JLarky/bitchimverified](https://github.com/JLarky/bitchimverified)
+3. ⭐ Starred [ChatSift/Roles](https://github.com/ChatSift/Roles)
+4. ⭐ Starred [PizzaPlace/pizzaman](https://github.com/PizzaPlace/pizzaman)
+5. ⭐ Starred [Disploy/disploy](https://github.com/Disploy/disploy)
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Saturday, November 12th, 2022, 2:36:31 PM
+Last Updated: Saturday, November 12th, 2022, 3:12:30 PM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 <details align="center">
