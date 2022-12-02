@@ -25,15 +25,15 @@
 </p>
 
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [ccrsxx/twitter-clone](https://github.com/ccrsxx/twitter-clone)
-2. ⬆️ Pushed 1 commit(s) to [PizzaPlace/docs-2](https://github.com/PizzaPlace/docs-2)
+1. ⭐ Starred [discordjs/gh-discord-middleware](https://github.com/discordjs/gh-discord-middleware)
+2. ⭐ Starred [ccrsxx/twitter-clone](https://github.com/ccrsxx/twitter-clone)
 3. ⬆️ Pushed 1 commit(s) to [PizzaPlace/docs-2](https://github.com/PizzaPlace/docs-2)
-4. 📔 Created new repository [PizzaPlace/docs-2](https://github.com/PizzaPlace/docs-2)
-5. ⬆️ Pushed 2 commit(s) to [Codeize/docs](https://github.com/Codeize/docs)
+4. ⬆️ Pushed 1 commit(s) to [PizzaPlace/docs-2](https://github.com/PizzaPlace/docs-2)
+5. 📔 Created new repository [PizzaPlace/docs-2](https://github.com/PizzaPlace/docs-2)
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Friday, December 2nd, 2022, 5:34:02 PM
+Last Updated: Friday, December 2nd, 2022, 6:12:45 PM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 <details align="center">
