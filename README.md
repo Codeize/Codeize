@@ -25,15 +25,15 @@
 </p>
 
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [alsonick/notnick.io](https://github.com/alsonick/notnick.io)
-2. ⭐ Starred [barthofu/tscord](https://github.com/barthofu/tscord)
-3. ❗️ Opened issue [#1](https://github.com/Codeize/template/issues/1) in [Codeize/template](https://github.com/Codeize/template)
-4. ⭐ Starred [ServerGuardBot/bot](https://github.com/ServerGuardBot/bot)
-5. ⭐ Starred [discordjs/gh-discord-middleware](https://github.com/discordjs/gh-discord-middleware)
+1. ⭐ Starred [jtagt/mee6](https://github.com/jtagt/mee6)
+2. ⭐ Starred [alsonick/notnick.io](https://github.com/alsonick/notnick.io)
+3. ⭐ Starred [barthofu/tscord](https://github.com/barthofu/tscord)
+4. ❗️ Opened issue [#1](https://github.com/Codeize/template/issues/1) in [Codeize/template](https://github.com/Codeize/template)
+5. ⭐ Starred [ServerGuardBot/bot](https://github.com/ServerGuardBot/bot)
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Saturday, December 17th, 2022, 4:12:11 PM
+Last Updated: Saturday, December 17th, 2022, 4:40:47 PM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 <details align="center">
