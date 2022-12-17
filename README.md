@@ -28,7 +28,7 @@
 1. 🔱 Forked [Codeize/gitcord-forum](https://github.com/Codeize/gitcord-forum) from [biaw/gitcord-forum](https://github.com/biaw/gitcord-forum)
 2. ⭐ Starred [jtagt/mee6](https://github.com/jtagt/mee6)
 3. ⭐ Starred [alsonick/notnick.io](https://github.com/alsonick/notnick.io)
-4. ⭐ Starred [barthofu/tscord](https://github.com/barthofu/tscord)
+4. ⭐ Starred [barthofu/tscord](https://github.com/barthofu/tscord) e
 5. ❗️ Opened issue [#1](https://github.com/Codeize/template/issues/1) in [Codeize/template](https://github.com/Codeize/template)
 <!--RECENT_ACTIVITY:end-->
 
