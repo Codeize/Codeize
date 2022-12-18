@@ -25,15 +25,15 @@
 </p>
 
 <!--RECENT_ACTIVITY:start-->
-1. 📔 Created new repository [PizzaPlace/gitcord](https://github.com/PizzaPlace/gitcord)
-2. 📔 Created new repository [PizzaPlace/assets](https://github.com/PizzaPlace/assets)
-3. ⭐ Starred [Codeize/docs](https://github.com/Codeize/docs)
-4. ⭐ Starred [Codeize/docs](https://github.com/Codeize/docs)
-5. ⬆️ Pushed 1 commit(s) to [Codeize/docs](https://github.com/Codeize/docs)
+1. 📖 Created new wiki page [Home](https://github.com/PizzaPlace/gitcord/wiki/Home) in [PizzaPlace/gitcord](https://github.com/PizzaPlace/gitcord)
+2. ⭐ Starred [PizzaPlace/gitcord](https://github.com/PizzaPlace/gitcord)
+3. 📔 Created new repository [PizzaPlace/gitcord](https://github.com/PizzaPlace/gitcord)
+4. 📔 Created new repository [PizzaPlace/assets](https://github.com/PizzaPlace/assets)
+5. ⭐ Starred [Codeize/docs](https://github.com/Codeize/docs)
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Sunday, December 18th, 2022, 2:08:11 PM
+Last Updated: Sunday, December 18th, 2022, 2:33:51 PM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 <details align="center">
