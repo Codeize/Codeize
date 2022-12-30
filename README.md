@@ -25,15 +25,15 @@
 </p>
 
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [ppauel/typescript-discord-bot](https://github.com/ppauel/typescript-discord-bot)
-2. ⭐ Starred [Erisa/discord-oidc-worker](https://github.com/Erisa/discord-oidc-worker)
-3. ⭐ Starred [bremea/tinfoil](https://github.com/bremea/tinfoil)
-4. ⭐ Starred [PizzaPlace/gitcord](https://github.com/PizzaPlace/gitcord)
-5. ⭐ Starred [PizzaPlace/pizzaman](https://github.com/PizzaPlace/pizzaman)
+1. ⭐ Starred [dudykr/stc](https://github.com/dudykr/stc)
+2. ⭐ Starred [ppauel/typescript-discord-bot](https://github.com/ppauel/typescript-discord-bot)
+3. ⭐ Starred [Erisa/discord-oidc-worker](https://github.com/Erisa/discord-oidc-worker)
+4. ⭐ Starred [bremea/tinfoil](https://github.com/bremea/tinfoil)
+5. ⭐ Starred [PizzaPlace/gitcord](https://github.com/PizzaPlace/gitcord)
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Thursday, December 29th, 2022, 11:33:58 PM
+Last Updated: Friday, December 30th, 2022, 12:54:07 AM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 <details align="center">
