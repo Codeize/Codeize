@@ -25,15 +25,15 @@
 </p>
 
 <!--RECENT_ACTIVITY:start-->
-1. 📔 Created new repository [PizzaPlace/betterdocs](https://github.com/PizzaPlace/betterdocs)<br>
-2. 🔱 Forked [Codeize/nextra-docs-template](https://github.com/Codeize/nextra-docs-template) from [shuding/nextra-docs-template](https://github.com/shuding/nextra-docs-template)<br>
-3. ⭐ Starred [dudykr/stc](https://github.com/dudykr/stc)<br>
-4. ⭐ Starred [ppauel/typescript-discord-bot](https://github.com/ppauel/typescript-discord-bot)<br>
-5. ⭐ Starred [Erisa/discord-oidc-worker](https://github.com/Erisa/discord-oidc-worker)<br>
+1. ⭐ Starred [shadcn/ui](https://github.com/shadcn/ui)<br>
+2. 📔 Created new repository [PizzaPlace/betterdocs](https://github.com/PizzaPlace/betterdocs)<br>
+3. 🔱 Forked [Codeize/nextra-docs-template](https://github.com/Codeize/nextra-docs-template) from [shuding/nextra-docs-template](https://github.com/shuding/nextra-docs-template)<br>
+4. ⭐ Starred [dudykr/stc](https://github.com/dudykr/stc)<br>
+5. ⭐ Starred [ppauel/typescript-discord-bot](https://github.com/ppauel/typescript-discord-bot)<br>
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Wednesday, January 4th, 2023, 5:35:36 PM
+Last Updated: Wednesday, January 4th, 2023, 6:13:01 PM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 <details align="center">
