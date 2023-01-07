@@ -25,15 +25,15 @@
 </p>
 
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [shadcn/ui](https://github.com/shadcn/ui)<br>
-2. 📔 Created new repository [PizzaPlace/betterdocs](https://github.com/PizzaPlace/betterdocs)<br>
-3. 🔱 Forked [Codeize/nextra-docs-template](https://github.com/Codeize/nextra-docs-template) from [shuding/nextra-docs-template](https://github.com/shuding/nextra-docs-template)<br>
-4. ⭐ Starred [dudykr/stc](https://github.com/dudykr/stc)<br>
-5. ⭐ Starred [ppauel/typescript-discord-bot](https://github.com/ppauel/typescript-discord-bot)<br>
+1. ❌ Closed PR [#7](https://github.com/DaniDiscord/Dani-Server-Utils/pull/7) in [DaniDiscord/Dani-Server-Utils](https://github.com/DaniDiscord/Dani-Server-Utils)<br>
+2. ⭐ Starred [shadcn/ui](https://github.com/shadcn/ui)<br>
+3. 📔 Created new repository [PizzaPlace/betterdocs](https://github.com/PizzaPlace/betterdocs)<br>
+4. 🔱 Forked [Codeize/nextra-docs-template](https://github.com/Codeize/nextra-docs-template) from [shuding/nextra-docs-template](https://github.com/shuding/nextra-docs-template)<br>
+5. ⭐ Starred [dudykr/stc](https://github.com/dudykr/stc)<br>
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Saturday, January 7th, 2023, 11:09:26 PM
+Last Updated: Saturday, January 7th, 2023, 11:34:09 PM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 <details align="center">
