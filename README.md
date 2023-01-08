@@ -25,15 +25,15 @@
 </p>
 
 <!--RECENT_ACTIVITY:start-->
-1. ❌ Closed PR [#7](https://github.com/DaniDiscord/Dani-Server-Utils/pull/7) in [DaniDiscord/Dani-Server-Utils](https://github.com/DaniDiscord/Dani-Server-Utils)<br>
-2. ⭐ Starred [shadcn/ui](https://github.com/shadcn/ui)<br>
-3. 📔 Created new repository [PizzaPlace/betterdocs](https://github.com/PizzaPlace/betterdocs)<br>
-4. 🔱 Forked [Codeize/nextra-docs-template](https://github.com/Codeize/nextra-docs-template) from [shuding/nextra-docs-template](https://github.com/shuding/nextra-docs-template)<br>
-5. ⭐ Starred [dudykr/stc](https://github.com/dudykr/stc)<br>
+1. ⭐ Starred [Codeize/docs](https://github.com/Codeize/docs)<br>
+2. ❌ Closed PR [#7](https://github.com/DaniDiscord/Dani-Server-Utils/pull/7) in [DaniDiscord/Dani-Server-Utils](https://github.com/DaniDiscord/Dani-Server-Utils)<br>
+3. ⭐ Starred [shadcn/ui](https://github.com/shadcn/ui)<br>
+4. 📔 Created new repository [PizzaPlace/betterdocs](https://github.com/PizzaPlace/betterdocs)<br>
+5. 🔱 Forked [Codeize/nextra-docs-template](https://github.com/Codeize/nextra-docs-template) from [shuding/nextra-docs-template](https://github.com/shuding/nextra-docs-template)<br>
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Sunday, January 8th, 2023, 9:33:43 PM
+Last Updated: Sunday, January 8th, 2023, 10:09:18 PM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 <details align="center">
