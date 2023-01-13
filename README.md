@@ -25,15 +25,15 @@
 </p>
 
 <!--RECENT_ACTIVITY:start-->
-1. 🤝 Became collaborator on [Codeize/template](https://github.com/Codeize/template)<br>
-2. ⬆️ Pushed 1 commit(s) to [Codeize/template](https://github.com/Codeize/template)<br>
-3. ⭐ Starred [Codeize/docs](https://github.com/Codeize/docs)<br>
-4. ❌ Closed PR [#7](https://github.com/DaniDiscord/Dani-Server-Utils/pull/7) in [DaniDiscord/Dani-Server-Utils](https://github.com/DaniDiscord/Dani-Server-Utils)<br>
-5. ⭐ Starred [shadcn/ui](https://github.com/shadcn/ui)<br>
+1. ⭐ Starred [steven-tey/precedent](https://github.com/steven-tey/precedent)<br>
+2. ⭐ Starred [Codeize/template](https://github.com/Codeize/template)<br>
+3. ⭐ Starred [Codeize/gitcord-forum](https://github.com/Codeize/gitcord-forum)<br>
+4. 🤝 Became collaborator on [Codeize/template](https://github.com/Codeize/template)<br>
+5. ⬆️ Pushed 1 commit(s) to [Codeize/template](https://github.com/Codeize/template)<br>
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Friday, January 13th, 2023, 10:34:13 PM
+Last Updated: Friday, January 13th, 2023, 11:09:58 PM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 <details align="center">
