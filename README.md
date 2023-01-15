@@ -25,15 +25,15 @@
 </p>
 
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [steven-tey/precedent](https://github.com/steven-tey/precedent)<br>
-2. ⭐ Starred [Codeize/template](https://github.com/Codeize/template)<br>
-3. ⭐ Starred [Codeize/gitcord-forum](https://github.com/Codeize/gitcord-forum)<br>
-4. 🤝 Became collaborator on [Codeize/template](https://github.com/Codeize/template)<br>
-5. ⬆️ Pushed 1 commit(s) to [Codeize/template](https://github.com/Codeize/template)<br>
+1. ⭐ Starred [T3NED/minus](https://github.com/T3NED/minus)<br>
+2. ⭐ Starred [steven-tey/precedent](https://github.com/steven-tey/precedent)<br>
+3. ⭐ Starred [Codeize/template](https://github.com/Codeize/template)<br>
+4. ⭐ Starred [Codeize/gitcord-forum](https://github.com/Codeize/gitcord-forum)<br>
+5. 🤝 Became collaborator on [Codeize/template](https://github.com/Codeize/template)<br>
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Sunday, January 15th, 2023, 1:13:11 PM
+Last Updated: Sunday, January 15th, 2023, 1:33:23 PM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 <details align="center">
