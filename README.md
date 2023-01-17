@@ -20,7 +20,6 @@
     <img src="https://nocache.advaith.workers.dev?url=https://img.shields.io/endpoint?url=https://dev.discordprofiles.me/api/badge/spotify/668423998777982997" />
     <img src="https://komarev.com/ghpvc/?username=codeize" />
     <img src="https://hits.link/hits?url=https%3A%2F%2Fgithub.com%2FCodeize" />
-    <a href="https://discord.gg/ZsJnSxHdgD"><img src="https://invidget.switchblade.xyz/ZsJnSxHdgD" /></a>
   </a>
 </p>
 
