@@ -24,15 +24,15 @@
 </p>
 
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [vcokltfre/viper](https://github.com/vcokltfre/viper)<br>
-2. ⭐ Starred [replugged-org/replugged](https://github.com/replugged-org/replugged)<br>
-3. ⭐ Starred [ottomated/create-o7-app](https://github.com/ottomated/create-o7-app)<br>
-4. ⬆️ Pushed 1 commit(s) to [Codeize/template](https://github.com/Codeize/template)<br>
+1. ⭐ Starred [net-tech/global-kill](https://github.com/net-tech/global-kill)<br>
+2. ⭐ Starred [vcokltfre/viper](https://github.com/vcokltfre/viper)<br>
+3. ⭐ Starred [replugged-org/replugged](https://github.com/replugged-org/replugged)<br>
+4. ⭐ Starred [ottomated/create-o7-app](https://github.com/ottomated/create-o7-app)<br>
 5. ⬆️ Pushed 1 commit(s) to [Codeize/template](https://github.com/Codeize/template)<br>
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Saturday, March 11th, 2023, 3:09:21 PM
+Last Updated: Saturday, March 11th, 2023, 3:33:55 PM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 <details align="center">
