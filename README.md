@@ -24,15 +24,15 @@
 </p>
 
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [communityarchitects/community-architects.net](https://github.com/communityarchitects/community-architects.net)<br>
-2. ⭐ Starred [net-tech/global-kill](https://github.com/net-tech/global-kill)<br>
-3. ⭐ Starred [vcokltfre/viper](https://github.com/vcokltfre/viper)<br>
-4. ⭐ Starred [replugged-org/replugged](https://github.com/replugged-org/replugged)<br>
-5. ⭐ Starred [ottomated/create-o7-app](https://github.com/ottomated/create-o7-app)<br>
+1. ⭐ Starred [0J33/Blue-F1ag](https://github.com/0J33/Blue-F1ag)<br>
+2. ⭐ Starred [communityarchitects/community-architects.net](https://github.com/communityarchitects/community-architects.net)<br>
+3. ⭐ Starred [net-tech/global-kill](https://github.com/net-tech/global-kill)<br>
+4. ⭐ Starred [vcokltfre/viper](https://github.com/vcokltfre/viper)<br>
+5. ⭐ Starred [replugged-org/replugged](https://github.com/replugged-org/replugged)<br>
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Monday, March 13th, 2023, 8:34:00 PM
+Last Updated: Monday, March 13th, 2023, 9:09:44 PM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 <details align="center">
