@@ -25,14 +25,14 @@
 
 <!--RECENT_ACTIVITY:start-->
 1. 🔱 Forked [Codeize/cdn-worker](https://github.com/Codeize/cdn-worker) from [SerenModz21/cdn-worker](https://github.com/SerenModz21/cdn-worker)<br>
-2. 👍 Approved [#73](https://github.com/facebookresearch/llama/pull/73#pullrequestreview-1338026868) in [facebookresearch/llama](https://github.com/facebookresearch/llama)<br>
-3. ⭐ Starred [0J33/Blue-F1ag](https://github.com/0J33/Blue-F1ag)<br>
-4. ⭐ Starred [communityarchitects/community-architects.net](https://github.com/communityarchitects/community-architects.net)<br>
-5. ⭐ Starred [net-tech/global-kill](https://github.com/net-tech/global-kill)<br>
+2. 🔱 Forked [Codeize/cdn-worker](https://github.com/Codeize/cdn-worker) from [SerenModz21/cdn-worker](https://github.com/SerenModz21/cdn-worker)<br>
+3. 👍 Approved [#73](https://github.com/facebookresearch/llama/pull/73#pullrequestreview-1338026868) in [facebookresearch/llama](https://github.com/facebookresearch/llama)<br>
+4. ⭐ Starred [0J33/Blue-F1ag](https://github.com/0J33/Blue-F1ag)<br>
+5. ⭐ Starred [communityarchitects/community-architects.net](https://github.com/communityarchitects/community-architects.net)<br>
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Thursday, March 16th, 2023, 1:41:38 PM
+Last Updated: Thursday, March 16th, 2023, 2:10:09 PM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 <details align="center">
