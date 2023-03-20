@@ -24,15 +24,15 @@
 </p>
 
 <!--RECENT_ACTIVITY:start-->
-1. 🔱 Forked [Codeize/cdn-worker](https://github.com/Codeize/cdn-worker) from [SerenModz21/cdn-worker](https://github.com/SerenModz21/cdn-worker)<br>
+1. ⭐ Starred [EmbarkStudios/discord-sdk](https://github.com/EmbarkStudios/discord-sdk)<br>
 2. 🔱 Forked [Codeize/cdn-worker](https://github.com/Codeize/cdn-worker) from [SerenModz21/cdn-worker](https://github.com/SerenModz21/cdn-worker)<br>
-3. 👍 Approved [#73](https://github.com/facebookresearch/llama/pull/73#pullrequestreview-1338026868) in [facebookresearch/llama](https://github.com/facebookresearch/llama)<br>
-4. ⭐ Starred [0J33/Blue-F1ag](https://github.com/0J33/Blue-F1ag)<br>
-5. ⭐ Starred [communityarchitects/community-architects.net](https://github.com/communityarchitects/community-architects.net)<br>
+3. 🔱 Forked [Codeize/cdn-worker](https://github.com/Codeize/cdn-worker) from [SerenModz21/cdn-worker](https://github.com/SerenModz21/cdn-worker)<br>
+4. 👍 Approved [#73](https://github.com/facebookresearch/llama/pull/73#pullrequestreview-1338026868) in [facebookresearch/llama](https://github.com/facebookresearch/llama)<br>
+5. ⭐ Starred [0J33/Blue-F1ag](https://github.com/0J33/Blue-F1ag)<br>
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Monday, March 20th, 2023, 8:10:22 PM
+Last Updated: Monday, March 20th, 2023, 8:34:01 PM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 <details align="center">
