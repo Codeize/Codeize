@@ -24,15 +24,15 @@
 </p>
 
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [twitter/the-algorithm](https://github.com/twitter/the-algorithm)<br>
-2. ⭐ Starred [twitter/the-algorithm-ml](https://github.com/twitter/the-algorithm-ml)<br>
-3. ⭐ Starred [Squidtoon99/bookmark-bot](https://github.com/Squidtoon99/bookmark-bot)<br>
-4. ⭐ Starred [AnswerOverflow/discordjs-react](https://github.com/AnswerOverflow/discordjs-react)<br>
-5. ⭐ Starred [PizzaPlace/Pep](https://github.com/PizzaPlace/Pep)<br>
+1. ⭐ Starred [rust-lang/rust](https://github.com/rust-lang/rust)<br>
+2. ⭐ Starred [twitter/the-algorithm](https://github.com/twitter/the-algorithm)<br>
+3. ⭐ Starred [twitter/the-algorithm-ml](https://github.com/twitter/the-algorithm-ml)<br>
+4. ⭐ Starred [Squidtoon99/bookmark-bot](https://github.com/Squidtoon99/bookmark-bot)<br>
+5. ⭐ Starred [AnswerOverflow/discordjs-react](https://github.com/AnswerOverflow/discordjs-react)<br>
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Tuesday, April 4th, 2023, 3:33:49 PM
+Last Updated: Tuesday, April 4th, 2023, 4:12:43 PM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 <details align="center">
