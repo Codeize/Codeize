@@ -24,15 +24,15 @@
 </p>
 
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [Codeize/template](https://github.com/Codeize/template)<br>
-2. ⭐ Starred [astridlol/Keycard](https://github.com/astridlol/Keycard)<br>
-3. ⭐ Starred [juanignaciomolina/nextjs13-starter-pack](https://github.com/juanignaciomolina/nextjs13-starter-pack)<br>
-4. ⭐ Starred [vcokltfre/disnakeapi](https://github.com/vcokltfre/disnakeapi)<br>
-5. ⭐ Starred [rust-lang/rust](https://github.com/rust-lang/rust)<br>
+1. ⭐ Starred [PizzaPlace/Pep](https://github.com/PizzaPlace/Pep)<br>
+2. ⭐ Starred [Codeize/template](https://github.com/Codeize/template)<br>
+3. ⭐ Starred [astridlol/Keycard](https://github.com/astridlol/Keycard)<br>
+4. ⭐ Starred [juanignaciomolina/nextjs13-starter-pack](https://github.com/juanignaciomolina/nextjs13-starter-pack)<br>
+5. ⭐ Starred [vcokltfre/disnakeapi](https://github.com/vcokltfre/disnakeapi)<br>
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Sunday, April 9th, 2023, 7:33:34 PM
+Last Updated: Sunday, April 9th, 2023, 8:09:05 PM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 <details align="center">
