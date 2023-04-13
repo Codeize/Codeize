@@ -24,15 +24,15 @@
 </p>
 
 <!--RECENT_ACTIVITY:start-->
-1. 💬 Commented on [#9](https://github.com/ppauel/typescript-discord-bot/pull/9#discussion_r1161359975) in [ppauel/typescript-discord-bot](https://github.com/ppauel/typescript-discord-bot)<br>
-2. 🔴 Requested 2 change(s) for [#9](https://github.com/ppauel/typescript-discord-bot/pull/9#pullrequestreview-1376973255) in [ppauel/typescript-discord-bot](https://github.com/ppauel/typescript-discord-bot)<br>
-3. ⭐ Starred [PizzaPlace/Pep](https://github.com/PizzaPlace/Pep)<br>
-4. ⭐ Starred [Codeize/template](https://github.com/Codeize/template)<br>
-5. ⭐ Starred [astridlol/Keycard](https://github.com/astridlol/Keycard)<br>
+1. 👍 Approved [#9](https://github.com/ppauel/typescript-discord-bot/pull/9#pullrequestreview-1383548254) in [ppauel/typescript-discord-bot](https://github.com/ppauel/typescript-discord-bot)<br>
+2. 💬 Commented on [#9](https://github.com/ppauel/typescript-discord-bot/pull/9#discussion_r1161359975) in [ppauel/typescript-discord-bot](https://github.com/ppauel/typescript-discord-bot)<br>
+3. 🔴 Requested 2 change(s) for [#9](https://github.com/ppauel/typescript-discord-bot/pull/9#pullrequestreview-1376973255) in [ppauel/typescript-discord-bot](https://github.com/ppauel/typescript-discord-bot)<br>
+4. ⭐ Starred [PizzaPlace/Pep](https://github.com/PizzaPlace/Pep)<br>
+5. ⭐ Starred [Codeize/template](https://github.com/Codeize/template)<br>
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Thursday, April 13th, 2023, 3:33:56 PM
+Last Updated: Thursday, April 13th, 2023, 4:11:15 PM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 <details align="center">
