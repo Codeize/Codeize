@@ -24,15 +24,15 @@
 </p>
 
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [jackblatch/OneStopShop](https://github.com/jackblatch/OneStopShop)<br>
-2. ⬆️ Pushed 1 commit(s) to [Codeize/cdn-worker](https://github.com/Codeize/cdn-worker)<br>
-3. 📔 Created new repository [PizzaPlace/carbon](https://github.com/PizzaPlace/carbon)<br>
-4. ⭐ Starred [jose-donato/race-stack](https://github.com/jose-donato/race-stack)<br>
-5. ⭐ Starred [FozzieHi/FormulaOne](https://github.com/FozzieHi/FormulaOne)<br>
+1. ⭐ Starred [SerenModz21/cdn-worker](https://github.com/SerenModz21/cdn-worker)<br>
+2. ⭐ Starred [jackblatch/OneStopShop](https://github.com/jackblatch/OneStopShop)<br>
+3. ⬆️ Pushed 1 commit(s) to [Codeize/cdn-worker](https://github.com/Codeize/cdn-worker)<br>
+4. 📔 Created new repository [PizzaPlace/carbon](https://github.com/PizzaPlace/carbon)<br>
+5. ⭐ Starred [jose-donato/race-stack](https://github.com/jose-donato/race-stack)<br>
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Wednesday, May 3rd, 2023, 9:33:24 PM
+Last Updated: Wednesday, May 3rd, 2023, 10:08:24 PM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 <details align="center">
