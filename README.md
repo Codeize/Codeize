@@ -24,15 +24,15 @@
 </p>
 
 <!--RECENT_ACTIVITY:start-->
-1. 💪 Opened PR [#22](https://github.com/buape/kiai-docs/pull/22) in [buape/kiai-docs](https://github.com/buape/kiai-docs)<br>
-2. ⬆️ Pushed 4 commit(s) to [buape/kiai-docs](https://github.com/buape/kiai-docs)<br>
-3. ⬆️ Pushed 1 commit(s) to [buape/kiai-docs](https://github.com/buape/kiai-docs)<br>
-4. ⬆️ Pushed 1 commit(s) to [PizzaPlace/cdn](https://github.com/PizzaPlace/cdn)<br>
-5. ⬆️ Pushed 1 commit(s) to [PizzaPlace/cdn](https://github.com/PizzaPlace/cdn)<br>
+1. ⬆️ Pushed 1 commit(s) to [Codeize/template](https://github.com/Codeize/template)<br>
+2. ⬆️ Pushed 1 commit(s) to [Codeize/template](https://github.com/Codeize/template)<br>
+3. 💪 Opened PR [#22](https://github.com/buape/kiai-docs/pull/22) in [buape/kiai-docs](https://github.com/buape/kiai-docs)<br>
+4. ⬆️ Pushed 4 commit(s) to [buape/kiai-docs](https://github.com/buape/kiai-docs)<br>
+5. ⬆️ Pushed 1 commit(s) to [buape/kiai-docs](https://github.com/buape/kiai-docs)<br>
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Thursday, May 18th, 2023, 6:11:39 PM
+Last Updated: Thursday, May 18th, 2023, 6:33:21 PM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 <details align="center">
