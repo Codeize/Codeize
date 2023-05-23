@@ -24,15 +24,15 @@
 </p>
 
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [codetheweb/muse](https://github.com/codetheweb/muse)<br>
-2. ⭐ Starred [wdwrk/wdwrk](https://github.com/wdwrk/wdwrk)<br>
-3. ⬆️ Pushed 1 commit(s) to [Codeize/template](https://github.com/Codeize/template)<br>
+1. ⭐ Starred [epicweb-dev/epic-stack](https://github.com/epicweb-dev/epic-stack)<br>
+2. ⭐ Starred [codetheweb/muse](https://github.com/codetheweb/muse)<br>
+3. ⭐ Starred [wdwrk/wdwrk](https://github.com/wdwrk/wdwrk)<br>
 4. ⬆️ Pushed 1 commit(s) to [Codeize/template](https://github.com/Codeize/template)<br>
-5. 💪 Opened PR [#22](https://github.com/buape/kiai-docs/pull/22) in [buape/kiai-docs](https://github.com/buape/kiai-docs)<br>
+5. ⬆️ Pushed 1 commit(s) to [Codeize/template](https://github.com/Codeize/template)<br>
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Tuesday, May 23rd, 2023, 7:33:27 PM
+Last Updated: Tuesday, May 23rd, 2023, 8:09:28 PM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 <details align="center">
