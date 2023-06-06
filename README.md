@@ -24,15 +24,15 @@
 </p>
 
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [Fish-Wiki/FishWiki-Bot](https://github.com/Fish-Wiki/FishWiki-Bot)<br>
-2. 💬 Commented on [#2](https://github.com/Codeize/template/pull/2#issuecomment-1562317871) in [Codeize/template](https://github.com/Codeize/template)<br>
-3. ⭐ Starred [epicweb-dev/epic-stack](https://github.com/epicweb-dev/epic-stack)<br>
-4. ⭐ Starred [codetheweb/muse](https://github.com/codetheweb/muse)<br>
-5. ⭐ Starred [wdwrk/wdwrk](https://github.com/wdwrk/wdwrk)<br>
+1. 💪 Opened PR [#28](https://github.com/ReGuilded/ReGuilded-Website/pull/28) in [ReGuilded/ReGuilded-Website](https://github.com/ReGuilded/ReGuilded-Website)<br>
+2. 🔱 Forked [Codeize/ReGuilded-Website](https://github.com/Codeize/ReGuilded-Website) from [ReGuilded/ReGuilded-Website](https://github.com/ReGuilded/ReGuilded-Website)<br>
+3. ⭐ Starred [Fish-Wiki/FishWiki-Bot](https://github.com/Fish-Wiki/FishWiki-Bot)<br>
+4. 💬 Commented on [#2](https://github.com/Codeize/template/pull/2#issuecomment-1562317871) in [Codeize/template](https://github.com/Codeize/template)<br>
+5. ⭐ Starred [epicweb-dev/epic-stack](https://github.com/epicweb-dev/epic-stack)<br>
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Tuesday, June 6th, 2023, 7:07:46 PM
+Last Updated: Tuesday, June 6th, 2023, 7:33:28 PM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 <details align="center">
