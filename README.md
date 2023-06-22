@@ -8,7 +8,7 @@
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img align="center" src="https://skillicons.dev/icons?i=discord,bots,ts,nodejs,mongodb,react" />
+    <img align="center" src="https://skillicons.dev/icons?i=discord,bots,ts,nodejs,mysql,postgresql,react,nextjs,tailwindcss" />
   </a>
 </p>
 
@@ -34,10 +34,3 @@
 <!--RECENT_ACTIVITY:last_update-->
 Last Updated: Thursday, June 22nd, 2023, 6:33:50 PM
 <!--RECENT_ACTIVITY:last_update_end-->
-
-<details align="center">
-  <summary></summary>
-  <a href="https://spotify-github-profile.vercel.app/api/view?uid=av3h9dhe0rlwk1wi7e5f9mwhg&redirect=true">
-    <img alt="spotify github profile" src="https://spotify-github-profile.vercel.app/api/view?uid=av3h9dhe0rlwk1wi7e5f9mwhg&cover_image=true&theme=compact">
-  </a>
-</details>
