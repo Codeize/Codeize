@@ -24,13 +24,13 @@
 </p>
 
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [mxkaske/openstatus](https://github.com/mxkaske/openstatus)<br>
-2. ⭐ Starred [beemobot/cafe](https://github.com/beemobot/cafe)<br>
-3. ⬆️ Pushed 1 commit(s) to [Codeize/Codeize](https://github.com/Codeize/Codeize)<br>
-4. 🔱 Forked [Codeize/winrar-keygen](https://github.com/Codeize/winrar-keygen) from [bitcookies/winrar-keygen](https://github.com/bitcookies/winrar-keygen)<br>
-5. 💪 Opened PR [#28](https://github.com/ReGuilded/ReGuilded-Website/pull/28) in [ReGuilded/ReGuilded-Website](https://github.com/ReGuilded/ReGuilded-Website)<br>
+1. ❌ Closed PR [#28](https://github.com/ReGuilded/ReGuilded-Website/pull/28) in [ReGuilded/ReGuilded-Website](https://github.com/ReGuilded/ReGuilded-Website)<br>
+2. ⭐ Starred [mxkaske/openstatus](https://github.com/mxkaske/openstatus)<br>
+3. ⭐ Starred [beemobot/cafe](https://github.com/beemobot/cafe)<br>
+4. ⬆️ Pushed 1 commit(s) to [Codeize/Codeize](https://github.com/Codeize/Codeize)<br>
+5. 🔱 Forked [Codeize/winrar-keygen](https://github.com/Codeize/winrar-keygen) from [bitcookies/winrar-keygen](https://github.com/bitcookies/winrar-keygen)<br>
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Tuesday, July 4th, 2023, 9:34:25 PM
+Last Updated: Tuesday, July 4th, 2023, 10:10:25 PM
 <!--RECENT_ACTIVITY:last_update_end-->
