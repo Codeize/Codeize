@@ -24,13 +24,13 @@
 </p>
 
 <!--RECENT_ACTIVITY:start-->
-1. 👍 Approved [#1](https://github.com/crossbuildjs/crossbuild/pull/1#pullrequestreview-1553521222) in [crossbuildjs/crossbuild](https://github.com/crossbuildjs/crossbuild)<br>
-2. 💬 Commented on [#1](https://github.com/crossbuildjs/crossbuild/pull/1#discussion_r1278469262) in [crossbuildjs/crossbuild](https://github.com/crossbuildjs/crossbuild)<br>
-3. 👍 Approved [#1](https://github.com/crossbuildjs/crossbuild/pull/1#pullrequestreview-1553519267) in [crossbuildjs/crossbuild](https://github.com/crossbuildjs/crossbuild)<br>
-4. 💬 Commented on [#1](https://github.com/crossbuildjs/crossbuild/pull/1#discussion_r1278469127) in [crossbuildjs/crossbuild](https://github.com/crossbuildjs/crossbuild)<br>
-5. 💬 Commented on [#1](https://github.com/crossbuildjs/crossbuild/pull/1#discussion_r1278468614) in [crossbuildjs/crossbuild](https://github.com/crossbuildjs/crossbuild)<br>
+1. 📔 Created new repository [crossbuildjs/guide](https://github.com/crossbuildjs/guide)<br>
+2. 👍 Approved [#1](https://github.com/crossbuildjs/crossbuild/pull/1#pullrequestreview-1553521222) in [crossbuildjs/crossbuild](https://github.com/crossbuildjs/crossbuild)<br>
+3. 💬 Commented on [#1](https://github.com/crossbuildjs/crossbuild/pull/1#discussion_r1278469262) in [crossbuildjs/crossbuild](https://github.com/crossbuildjs/crossbuild)<br>
+4. 👍 Approved [#1](https://github.com/crossbuildjs/crossbuild/pull/1#pullrequestreview-1553519267) in [crossbuildjs/crossbuild](https://github.com/crossbuildjs/crossbuild)<br>
+5. 💬 Commented on [#1](https://github.com/crossbuildjs/crossbuild/pull/1#discussion_r1278469127) in [crossbuildjs/crossbuild](https://github.com/crossbuildjs/crossbuild)<br>
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Sunday, July 30th, 2023, 6:10:15 PM
+Last Updated: Sunday, July 30th, 2023, 6:33:36 PM
 <!--RECENT_ACTIVITY:last_update_end-->
