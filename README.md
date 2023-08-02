@@ -24,13 +24,13 @@
 </p>
 
 <!--RECENT_ACTIVITY:start-->
-1. 👍 Approved [#2](https://github.com/crossbuildjs/crossbuild/pull/2#pullrequestreview-1559796180) in [crossbuildjs/crossbuild](https://github.com/crossbuildjs/crossbuild)<br>
-2. ⭐ Starred [HasangerGames/suroi](https://github.com/HasangerGames/suroi)<br>
-3. 👍 Approved [#1](https://github.com/crossbuildjs/crossbuild/pull/1#pullrequestreview-1553693154) in [crossbuildjs/crossbuild](https://github.com/crossbuildjs/crossbuild)<br>
-4. 📔 Created new repository [crossbuildjs/guide](https://github.com/crossbuildjs/guide)<br>
-5. 👍 Approved [#1](https://github.com/crossbuildjs/crossbuild/pull/1#pullrequestreview-1553521222) in [crossbuildjs/crossbuild](https://github.com/crossbuildjs/crossbuild)<br>
+1. ⭐ Starred [discord/discord-api-spec](https://github.com/discord/discord-api-spec)<br>
+2. 👍 Approved [#2](https://github.com/crossbuildjs/crossbuild/pull/2#pullrequestreview-1559796180) in [crossbuildjs/crossbuild](https://github.com/crossbuildjs/crossbuild)<br>
+3. ⭐ Starred [HasangerGames/suroi](https://github.com/HasangerGames/suroi)<br>
+4. 👍 Approved [#1](https://github.com/crossbuildjs/crossbuild/pull/1#pullrequestreview-1553693154) in [crossbuildjs/crossbuild](https://github.com/crossbuildjs/crossbuild)<br>
+5. 📔 Created new repository [crossbuildjs/guide](https://github.com/crossbuildjs/guide)<br>
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Wednesday, August 2nd, 2023, 9:07:58 PM
+Last Updated: Wednesday, August 2nd, 2023, 9:33:49 PM
 <!--RECENT_ACTIVITY:last_update_end-->
