@@ -24,13 +24,13 @@
 </p>
 
 <!--RECENT_ACTIVITY:start-->
-1. 💪 Opened PR [#29](https://github.com/ReGuilded/ReGuilded-Website/pull/29) in [ReGuilded/ReGuilded-Website](https://github.com/ReGuilded/ReGuilded-Website)<br>
-2. 🔱 Forked [Codeize/ReGuilded-Website](https://github.com/Codeize/ReGuilded-Website) from [ReGuilded/ReGuilded-Website](https://github.com/ReGuilded/ReGuilded-Website)<br>
-3. ⬆️ Pushed 1 commit(s) to [crossbuildjs/crossbuild](https://github.com/crossbuildjs/crossbuild)<br>
-4. 👍 Approved [#15](https://github.com/crossbuildjs/crossbuild/pull/15#pullrequestreview-1584919967) in [crossbuildjs/crossbuild](https://github.com/crossbuildjs/crossbuild)<br>
-5. 👍 Approved [#14](https://github.com/crossbuildjs/crossbuild/pull/14#pullrequestreview-1583167095) in [crossbuildjs/crossbuild](https://github.com/crossbuildjs/crossbuild)<br>
+1. ⬆️ Pushed 2 commit(s) to [Codeize/ReGuilded-Website](https://github.com/Codeize/ReGuilded-Website)<br>
+2. 🎉 Merged PR [#1](https://github.com/Codeize/ReGuilded-Website/pull/1) in [Codeize/ReGuilded-Website](https://github.com/Codeize/ReGuilded-Website)<br>
+3. 💪 Opened PR [#1](https://github.com/Codeize/ReGuilded-Website/pull/1) in [Codeize/ReGuilded-Website](https://github.com/Codeize/ReGuilded-Website)<br>
+4. 💪 Opened PR [#29](https://github.com/ReGuilded/ReGuilded-Website/pull/29) in [ReGuilded/ReGuilded-Website](https://github.com/ReGuilded/ReGuilded-Website)<br>
+5. 🔱 Forked [Codeize/ReGuilded-Website](https://github.com/Codeize/ReGuilded-Website) from [ReGuilded/ReGuilded-Website](https://github.com/ReGuilded/ReGuilded-Website)<br>
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Saturday, August 26th, 2023, 12:14:54 PM
+Last Updated: Saturday, August 26th, 2023, 12:43:23 PM
 <!--RECENT_ACTIVITY:last_update_end-->
