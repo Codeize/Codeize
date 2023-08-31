@@ -24,13 +24,13 @@
 </p>
 
 <!--RECENT_ACTIVITY:start-->
-1. 👍 Approved [#27](https://github.com/crossbuildjs/crossbuild/pull/27#pullrequestreview-1598707902) in [crossbuildjs/crossbuild](https://github.com/crossbuildjs/crossbuild)<br>
-2. 👍 Approved [#28](https://github.com/crossbuildjs/crossbuild/pull/28#pullrequestreview-1598705965) in [crossbuildjs/crossbuild](https://github.com/crossbuildjs/crossbuild)<br>
-3. ⬆️ Pushed 1 commit(s) to [crossbuildjs/crossbuild](https://github.com/crossbuildjs/crossbuild)<br>
-4. 🎉 Merged PR [#26](https://github.com/crossbuildjs/crossbuild/pull/26) in [crossbuildjs/crossbuild](https://github.com/crossbuildjs/crossbuild)<br>
-5. 👍 Approved [#26](https://github.com/crossbuildjs/crossbuild/pull/26#pullrequestreview-1597103802) in [crossbuildjs/crossbuild](https://github.com/crossbuildjs/crossbuild)<br>
+1. ⭐ Starred [trpc/trpc](https://github.com/trpc/trpc)<br>
+2. 👍 Approved [#27](https://github.com/crossbuildjs/crossbuild/pull/27#pullrequestreview-1598707902) in [crossbuildjs/crossbuild](https://github.com/crossbuildjs/crossbuild)<br>
+3. 👍 Approved [#28](https://github.com/crossbuildjs/crossbuild/pull/28#pullrequestreview-1598705965) in [crossbuildjs/crossbuild](https://github.com/crossbuildjs/crossbuild)<br>
+4. ⬆️ Pushed 1 commit(s) to [crossbuildjs/crossbuild](https://github.com/crossbuildjs/crossbuild)<br>
+5. 🎉 Merged PR [#26](https://github.com/crossbuildjs/crossbuild/pull/26) in [crossbuildjs/crossbuild](https://github.com/crossbuildjs/crossbuild)<br>
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Thursday, August 31st, 2023, 8:34:02 PM
+Last Updated: Thursday, August 31st, 2023, 9:08:06 PM
 <!--RECENT_ACTIVITY:last_update_end-->
