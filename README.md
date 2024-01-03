@@ -24,13 +24,13 @@
 </p>
 
 <!--RECENT_ACTIVITY:start-->
-1. ❌ Closed PR [#25](https://github.com/ReGuilded/ReGuilded-Website/pull/25) in [ReGuilded/ReGuilded-Website](https://github.com/ReGuilded/ReGuilded-Website)<br>
-2. 💬 Commented on [#25](https://github.com/ReGuilded/ReGuilded-Website/pull/25#issuecomment-1874394468) in [ReGuilded/ReGuilded-Website](https://github.com/ReGuilded/ReGuilded-Website)<br>
-3. 💪 Opened PR [#32](https://github.com/ReGuilded/ReGuilded-Website/pull/32) in [ReGuilded/ReGuilded-Website](https://github.com/ReGuilded/ReGuilded-Website)<br>
-4. ⬆️ Pushed 1 commit(s) to [ReGuilded/ReGuilded-Website](https://github.com/ReGuilded/ReGuilded-Website)<br>
+1. ⭐ Starred [ReGuilded/ReGuilded-Website](https://github.com/ReGuilded/ReGuilded-Website)<br>
+2. ❌ Closed PR [#25](https://github.com/ReGuilded/ReGuilded-Website/pull/25) in [ReGuilded/ReGuilded-Website](https://github.com/ReGuilded/ReGuilded-Website)<br>
+3. 💬 Commented on [#25](https://github.com/ReGuilded/ReGuilded-Website/pull/25#issuecomment-1874394468) in [ReGuilded/ReGuilded-Website](https://github.com/ReGuilded/ReGuilded-Website)<br>
+4. 💪 Opened PR [#32](https://github.com/ReGuilded/ReGuilded-Website/pull/32) in [ReGuilded/ReGuilded-Website](https://github.com/ReGuilded/ReGuilded-Website)<br>
 5. ⬆️ Pushed 1 commit(s) to [ReGuilded/ReGuilded-Website](https://github.com/ReGuilded/ReGuilded-Website)<br>
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Wednesday, January 3rd, 2024, 1:12:01 PM
+Last Updated: Wednesday, January 3rd, 2024, 1:33:21 PM
 <!--RECENT_ACTIVITY:last_update_end-->
