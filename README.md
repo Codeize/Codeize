@@ -24,13 +24,13 @@
 </p>
 
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [ReGuilded/ReGuilded-Website](https://github.com/ReGuilded/ReGuilded-Website)<br>
-2. ❌ Closed PR [#25](https://github.com/ReGuilded/ReGuilded-Website/pull/25) in [ReGuilded/ReGuilded-Website](https://github.com/ReGuilded/ReGuilded-Website)<br>
-3. 💬 Commented on [#25](https://github.com/ReGuilded/ReGuilded-Website/pull/25#issuecomment-1874394468) in [ReGuilded/ReGuilded-Website](https://github.com/ReGuilded/ReGuilded-Website)<br>
-4. 💪 Opened PR [#32](https://github.com/ReGuilded/ReGuilded-Website/pull/32) in [ReGuilded/ReGuilded-Website](https://github.com/ReGuilded/ReGuilded-Website)<br>
-5. ⬆️ Pushed 1 commit(s) to [ReGuilded/ReGuilded-Website](https://github.com/ReGuilded/ReGuilded-Website)<br>
+1. ⬆️ Pushed 4 commit(s) to [ReGuilded/ReGuilded-Website](https://github.com/ReGuilded/ReGuilded-Website)<br>
+2. 💬 Commented on [#34](https://github.com/ReGuilded/ReGuilded-Website/pull/34#issuecomment-1876184634) in [ReGuilded/ReGuilded-Website](https://github.com/ReGuilded/ReGuilded-Website)<br>
+3. 👍 Approved [#34](https://github.com/ReGuilded/ReGuilded-Website/pull/34#pullrequestreview-1803310069) in [ReGuilded/ReGuilded-Website](https://github.com/ReGuilded/ReGuilded-Website)<br>
+4. 💬 Commented on [#35](https://github.com/ReGuilded/ReGuilded-Website/issues/35#issuecomment-1876166356) in [ReGuilded/ReGuilded-Website](https://github.com/ReGuilded/ReGuilded-Website)<br>
+5. ⭐ Starred [ReGuilded/ReGuilded-Website](https://github.com/ReGuilded/ReGuilded-Website)<br>
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Thursday, January 4th, 2024, 12:46:44 AM
+Last Updated: Thursday, January 4th, 2024, 1:51:02 AM
 <!--RECENT_ACTIVITY:last_update_end-->
