@@ -24,13 +24,13 @@
 </p>
 
 <!--RECENT_ACTIVITY:start-->
-1. 👍 Approved [#36](https://github.com/ReGuilded/ReGuilded-Website/pull/36#pullrequestreview-1804621401) in [ReGuilded/ReGuilded-Website](https://github.com/ReGuilded/ReGuilded-Website)<br>
-2. ⬆️ Pushed 4 commit(s) to [ReGuilded/ReGuilded-Website](https://github.com/ReGuilded/ReGuilded-Website)<br>
-3. 💬 Commented on [#34](https://github.com/ReGuilded/ReGuilded-Website/pull/34#issuecomment-1876184634) in [ReGuilded/ReGuilded-Website](https://github.com/ReGuilded/ReGuilded-Website)<br>
-4. 👍 Approved [#34](https://github.com/ReGuilded/ReGuilded-Website/pull/34#pullrequestreview-1803310069) in [ReGuilded/ReGuilded-Website](https://github.com/ReGuilded/ReGuilded-Website)<br>
-5. 💬 Commented on [#35](https://github.com/ReGuilded/ReGuilded-Website/issues/35#issuecomment-1876166356) in [ReGuilded/ReGuilded-Website](https://github.com/ReGuilded/ReGuilded-Website)<br>
+1. ⭐ Starred [Railly/one-hunter-vscode](https://github.com/Railly/one-hunter-vscode)<br>
+2. 👍 Approved [#36](https://github.com/ReGuilded/ReGuilded-Website/pull/36#pullrequestreview-1804621401) in [ReGuilded/ReGuilded-Website](https://github.com/ReGuilded/ReGuilded-Website)<br>
+3. ⬆️ Pushed 4 commit(s) to [ReGuilded/ReGuilded-Website](https://github.com/ReGuilded/ReGuilded-Website)<br>
+4. 💬 Commented on [#34](https://github.com/ReGuilded/ReGuilded-Website/pull/34#issuecomment-1876184634) in [ReGuilded/ReGuilded-Website](https://github.com/ReGuilded/ReGuilded-Website)<br>
+5. 👍 Approved [#34](https://github.com/ReGuilded/ReGuilded-Website/pull/34#pullrequestreview-1803310069) in [ReGuilded/ReGuilded-Website](https://github.com/ReGuilded/ReGuilded-Website)<br>
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Wednesday, January 17th, 2024, 12:48:31 AM
+Last Updated: Wednesday, January 17th, 2024, 1:53:57 AM
 <!--RECENT_ACTIVITY:last_update_end-->
