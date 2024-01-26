@@ -24,13 +24,13 @@
 </p>
 
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [Railly/one-hunter-vscode](https://github.com/Railly/one-hunter-vscode)<br>
-2. 👍 Approved [#36](https://github.com/ReGuilded/ReGuilded-Website/pull/36#pullrequestreview-1804621401) in [ReGuilded/ReGuilded-Website](https://github.com/ReGuilded/ReGuilded-Website)<br>
-3. ⬆️ Pushed 4 commit(s) to [ReGuilded/ReGuilded-Website](https://github.com/ReGuilded/ReGuilded-Website)<br>
-4. 💬 Commented on [#34](https://github.com/ReGuilded/ReGuilded-Website/pull/34#issuecomment-1876184634) in [ReGuilded/ReGuilded-Website](https://github.com/ReGuilded/ReGuilded-Website)<br>
-5. 👍 Approved [#34](https://github.com/ReGuilded/ReGuilded-Website/pull/34#pullrequestreview-1803310069) in [ReGuilded/ReGuilded-Website](https://github.com/ReGuilded/ReGuilded-Website)<br>
+1. 👍 Approved [#35](https://github.com/buape/kiai-docs/pull/35#pullrequestreview-1845177559) in [buape/kiai-docs](https://github.com/buape/kiai-docs)<br>
+2. ⭐ Starred [Railly/one-hunter-vscode](https://github.com/Railly/one-hunter-vscode)<br>
+3. 👍 Approved [#36](https://github.com/ReGuilded/ReGuilded-Website/pull/36#pullrequestreview-1804621401) in [ReGuilded/ReGuilded-Website](https://github.com/ReGuilded/ReGuilded-Website)<br>
+4. ⬆️ Pushed 4 commit(s) to [ReGuilded/ReGuilded-Website](https://github.com/ReGuilded/ReGuilded-Website)<br>
+5. 💬 Commented on [#34](https://github.com/ReGuilded/ReGuilded-Website/pull/34#issuecomment-1876184634) in [ReGuilded/ReGuilded-Website](https://github.com/ReGuilded/ReGuilded-Website)<br>
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Friday, January 26th, 2024, 7:08:32 AM
+Last Updated: Friday, January 26th, 2024, 7:34:42 AM
 <!--RECENT_ACTIVITY:last_update_end-->
