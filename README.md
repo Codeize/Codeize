@@ -24,13 +24,13 @@
 </p>
 
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [helmerapp/scap](https://github.com/helmerapp/scap)<br>
-2. ⭐ Starred [Sapphire-Discord-Bot/images](https://github.com/Sapphire-Discord-Bot/images)<br>
-3. ⭐ Starred [lmsqueezy/wedges](https://github.com/lmsqueezy/wedges)<br>
-4. 👍 Approved [#35](https://github.com/buape/kiai-docs/pull/35#pullrequestreview-1845177559) in [buape/kiai-docs](https://github.com/buape/kiai-docs)<br>
-5. ⭐ Starred [Railly/one-hunter-vscode](https://github.com/Railly/one-hunter-vscode)<br>
+1. ⭐ Starred [buape/glossary](https://github.com/buape/glossary)<br>
+2. ⭐ Starred [helmerapp/scap](https://github.com/helmerapp/scap)<br>
+3. ⭐ Starred [Sapphire-Discord-Bot/images](https://github.com/Sapphire-Discord-Bot/images)<br>
+4. ⭐ Starred [lmsqueezy/wedges](https://github.com/lmsqueezy/wedges)<br>
+5. 👍 Approved [#35](https://github.com/buape/kiai-docs/pull/35#pullrequestreview-1845177559) in [buape/kiai-docs](https://github.com/buape/kiai-docs)<br>
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Tuesday, February 20th, 2024, 8:12:05 AM
+Last Updated: Tuesday, February 20th, 2024, 8:34:03 AM
 <!--RECENT_ACTIVITY:last_update_end-->
