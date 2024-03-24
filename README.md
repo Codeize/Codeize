@@ -24,13 +24,13 @@
 </p>
 
 <!--RECENT_ACTIVITY:start-->
-1. ⬆️ Pushed 2 commit(s) to [Codeize/PollPolice](https://github.com/Codeize/PollPolice)<br>
-2. ⬆️ Pushed 1 commit(s) to [Codeize/PollPolice](https://github.com/Codeize/PollPolice)<br>
-3. ⭐ Starred [Codeize/PollPolice](https://github.com/Codeize/PollPolice)<br>
-4. ⬆️ Pushed 1 commit(s) to [Codeize/PollPolice](https://github.com/Codeize/PollPolice)<br>
-5. 📔 Created new repository [Codeize/Polln-t](https://github.com/Codeize/Polln-t)<br>
+1. ⭐ Starred [discord/embedded-app-sdk](https://github.com/discord/embedded-app-sdk)<br>
+2. ⬆️ Pushed 2 commit(s) to [Codeize/PollPolice](https://github.com/Codeize/PollPolice)<br>
+3. ⬆️ Pushed 1 commit(s) to [Codeize/PollPolice](https://github.com/Codeize/PollPolice)<br>
+4. ⭐ Starred [Codeize/PollPolice](https://github.com/Codeize/PollPolice)<br>
+5. ⬆️ Pushed 1 commit(s) to [Codeize/PollPolice](https://github.com/Codeize/PollPolice)<br>
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Sunday, March 24th, 2024, 12:45:10 PM
+Last Updated: Sunday, March 24th, 2024, 1:10:27 PM
 <!--RECENT_ACTIVITY:last_update_end-->
