@@ -24,13 +24,13 @@
 </p>
 
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [ishaan1013/sandbox](https://github.com/ishaan1013/sandbox)<br>
-2. ⭐ Starred [BostonRohan/juxtopposed-spotify-redesign](https://github.com/BostonRohan/juxtopposed-spotify-redesign)<br>
-3. ⭐ Starred [FinOCE/SweeperSmackdown](https://github.com/FinOCE/SweeperSmackdown)<br>
-4. ⬆️ Pushed 3 commit(s) to [Codeize/PinBot](https://github.com/Codeize/PinBot)<br>
-5. 🎉 Merged PR [#1](https://github.com/Codeize/PinBot/pull/1) in [Codeize/PinBot](https://github.com/Codeize/PinBot)<br>
+1. ⭐ Starred [Juxtify4Spotify/juxtify-client](https://github.com/Juxtify4Spotify/juxtify-client)<br>
+2. ⭐ Starred [ishaan1013/sandbox](https://github.com/ishaan1013/sandbox)<br>
+3. ⭐ Starred [BostonRohan/juxtopposed-spotify-redesign](https://github.com/BostonRohan/juxtopposed-spotify-redesign)<br>
+4. ⭐ Starred [FinOCE/SweeperSmackdown](https://github.com/FinOCE/SweeperSmackdown)<br>
+5. ⬆️ Pushed 3 commit(s) to [Codeize/PinBot](https://github.com/Codeize/PinBot)<br>
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Sunday, June 2nd, 2024, 11:35:04 PM
+Last Updated: Monday, June 3rd, 2024, 12:50:45 AM
 <!--RECENT_ACTIVITY:last_update_end-->
