@@ -24,13 +24,13 @@
 </p>
 
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [Skytils/SkytilsMod](https://github.com/Skytils/SkytilsMod)<br>
-2. ⭐ Starred [Juxtify4Spotify/juxtify-client](https://github.com/Juxtify4Spotify/juxtify-client)<br>
-3. ⭐ Starred [ishaan1013/sandbox](https://github.com/ishaan1013/sandbox)<br>
-4. ⭐ Starred [BostonRohan/juxtopposed-spotify-redesign](https://github.com/BostonRohan/juxtopposed-spotify-redesign)<br>
-5. ⭐ Starred [FinOCE/SweeperSmackdown](https://github.com/FinOCE/SweeperSmackdown)<br>
+1. ⭐ Starred [DeclanChidlow/AutoMod](https://github.com/DeclanChidlow/AutoMod)<br>
+2. ⭐ Starred [Skytils/SkytilsMod](https://github.com/Skytils/SkytilsMod)<br>
+3. ⭐ Starred [Juxtify4Spotify/juxtify-client](https://github.com/Juxtify4Spotify/juxtify-client)<br>
+4. ⭐ Starred [ishaan1013/sandbox](https://github.com/ishaan1013/sandbox)<br>
+5. ⭐ Starred [BostonRohan/juxtopposed-spotify-redesign](https://github.com/BostonRohan/juxtopposed-spotify-redesign)<br>
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Friday, June 7th, 2024, 2:34:58 PM
+Last Updated: Friday, June 7th, 2024, 3:11:07 PM
 <!--RECENT_ACTIVITY:last_update_end-->
