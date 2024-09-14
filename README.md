@@ -24,13 +24,13 @@
 </p>
 
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [godotengine/godot](https://github.com/godotengine/godot)<br>
-2. 📖 Created new wiki page [_Footer](https://github.com/FlashShifter/StardewValleyExpanded/wiki/_Footer) in [FlashShifter/StardewValleyExpanded](https://github.com/FlashShifter/StardewValleyExpanded)<br>
-3. ⭐ Starred [codenoid/github-roast](https://github.com/codenoid/github-roast)<br>
-4. ⭐ Starred [MiniMadcraft/Flightline](https://github.com/MiniMadcraft/Flightline)<br>
-5. ⭐ Starred [Pathoschild/SMAPI](https://github.com/Pathoschild/SMAPI)<br>
+1. ⭐ Starred [buape/carbon](https://github.com/buape/carbon)<br>
+2. ⭐ Starred [godotengine/godot](https://github.com/godotengine/godot)<br>
+3. 📖 Created new wiki page [_Footer](https://github.com/FlashShifter/StardewValleyExpanded/wiki/_Footer) in [FlashShifter/StardewValleyExpanded](https://github.com/FlashShifter/StardewValleyExpanded)<br>
+4. ⭐ Starred [codenoid/github-roast](https://github.com/codenoid/github-roast)<br>
+5. ⭐ Starred [MiniMadcraft/Flightline](https://github.com/MiniMadcraft/Flightline)<br>
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Saturday, September 14th, 2024, 9:10:07 PM
+Last Updated: Saturday, September 14th, 2024, 9:34:28 PM
 <!--RECENT_ACTIVITY:last_update_end-->
