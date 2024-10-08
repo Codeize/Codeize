@@ -24,13 +24,13 @@
 </p>
 
 <!--RECENT_ACTIVITY:start-->
-1. 🎉 Merged PR [#171](https://github.com/buape/carbon/pull/171) in [buape/carbon](https://github.com/buape/carbon)<br>
-2. 💪 Opened PR [#171](https://github.com/buape/carbon/pull/171) in [buape/carbon](https://github.com/buape/carbon)<br>
-3. ⭐ Starred [buape/Revealer](https://github.com/buape/Revealer)<br>
-4. ⬆️ Pushed 1 commit(s) to [buape/short-links](https://github.com/buape/short-links)<br>
-5. ⬆️ Pushed 1 commit(s) to [buape/short-links](https://github.com/buape/short-links)<br>
+1. ⬆️ Pushed 1 commit(s) to [buape/Tags](https://github.com/buape/Tags)<br>
+2. ⬆️ Pushed 1 commit(s) to [buape/Tags](https://github.com/buape/Tags)<br>
+3. 🎉 Merged PR [#171](https://github.com/buape/carbon/pull/171) in [buape/carbon](https://github.com/buape/carbon)<br>
+4. 💪 Opened PR [#171](https://github.com/buape/carbon/pull/171) in [buape/carbon](https://github.com/buape/carbon)<br>
+5. ⭐ Starred [buape/Revealer](https://github.com/buape/Revealer)<br>
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Tuesday, October 8th, 2024, 12:59:11 AM
+Last Updated: Tuesday, October 8th, 2024, 2:21:01 AM
 <!--RECENT_ACTIVITY:last_update_end-->
