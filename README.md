@@ -24,13 +24,13 @@
 </p>
 
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [Bekacru/ct3-better-auth](https://github.com/Bekacru/ct3-better-auth)<br>
-2. ⬆️ Pushed 1 commit(s) to [buape/Tags](https://github.com/buape/Tags)<br>
+1. ⭐ Starred [scopeclient/scope](https://github.com/scopeclient/scope)<br>
+2. ⭐ Starred [Bekacru/ct3-better-auth](https://github.com/Bekacru/ct3-better-auth)<br>
 3. ⬆️ Pushed 1 commit(s) to [buape/Tags](https://github.com/buape/Tags)<br>
-4. 🎉 Merged PR [#171](https://github.com/buape/carbon/pull/171) in [buape/carbon](https://github.com/buape/carbon)<br>
-5. 💪 Opened PR [#171](https://github.com/buape/carbon/pull/171) in [buape/carbon](https://github.com/buape/carbon)<br>
+4. ⬆️ Pushed 1 commit(s) to [buape/Tags](https://github.com/buape/Tags)<br>
+5. 🎉 Merged PR [#171](https://github.com/buape/carbon/pull/171) in [buape/carbon](https://github.com/buape/carbon)<br>
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Saturday, November 16th, 2024, 7:34:43 PM
+Last Updated: Saturday, November 16th, 2024, 8:12:47 PM
 <!--RECENT_ACTIVITY:last_update_end-->
