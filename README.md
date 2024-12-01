@@ -24,13 +24,13 @@
 </p>
 
 <!--RECENT_ACTIVITY:start-->
-1. ⬆️ Pushed 2 commit(s) to [buape/jt-99-web](https://github.com/buape/jt-99-web)<br>
-2. 🎉 Merged PR [#2](https://github.com/buape/jt-99-web/pull/2) in [buape/jt-99-web](https://github.com/buape/jt-99-web)<br>
-3. 👍 Approved [#2](https://github.com/buape/jt-99-web/pull/2#pullrequestreview-2456829405) in [buape/jt-99-web](https://github.com/buape/jt-99-web)<br>
-4. ⭐ Starred [scopeclient/scope](https://github.com/scopeclient/scope)<br>
-5. ⭐ Starred [Bekacru/ct3-better-auth](https://github.com/Bekacru/ct3-better-auth)<br>
+1. ⭐ Starred [supabase-community/launchweek.dev](https://github.com/supabase-community/launchweek.dev)<br>
+2. ⬆️ Pushed 2 commit(s) to [buape/jt-99-web](https://github.com/buape/jt-99-web)<br>
+3. 🎉 Merged PR [#2](https://github.com/buape/jt-99-web/pull/2) in [buape/jt-99-web](https://github.com/buape/jt-99-web)<br>
+4. 👍 Approved [#2](https://github.com/buape/jt-99-web/pull/2#pullrequestreview-2456829405) in [buape/jt-99-web](https://github.com/buape/jt-99-web)<br>
+5. ⭐ Starred [scopeclient/scope](https://github.com/scopeclient/scope)<br>
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Sunday, December 1st, 2024, 5:36:28 PM
+Last Updated: Sunday, December 1st, 2024, 6:16:23 PM
 <!--RECENT_ACTIVITY:last_update_end-->
