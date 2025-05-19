@@ -28,9 +28,8 @@
 2. ⭐ Starred [Hello9999901/laptop](https://github.com/Hello9999901/laptop)<br>
 3. ⬆️ Pushed 1 commit(s) to [buape/buape-com](https://github.com/buape/buape-com)<br>
 4. ⭐ Starred [unibeck/uptime-monitor](https://github.com/unibeck/uptime-monitor)<br>
-5. ⭐ Starred [thewilloftheshadow/bun-deps](https://github.com/thewilloftheshadow/bun-deps)<br>
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Monday, May 19th, 2025, 4:31:13 AM
+Last Updated: Monday, May 19th, 2025, 5:14:37 AM
 <!--RECENT_ACTIVITY:last_update_end-->
