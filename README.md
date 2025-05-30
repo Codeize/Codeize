@@ -25,9 +25,8 @@
 
 <!--RECENT_ACTIVITY:start-->
 1. ⭐ Starred [wzhudev/reverse-linear-sync-engine](https://github.com/wzhudev/reverse-linear-sync-engine)<br>
-2. 👍 Approved [#240](https://github.com/buape/carbon/pull/240#pullrequestreview-2804562064) in [buape/carbon](https://github.com/buape/carbon)<br>
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Friday, May 30th, 2025, 3:39:41 AM
+Last Updated: Friday, May 30th, 2025, 4:18:51 AM
 <!--RECENT_ACTIVITY:last_update_end-->
