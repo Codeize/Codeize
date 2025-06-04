@@ -24,9 +24,10 @@
 </p>
 
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [wzhudev/reverse-linear-sync-engine](https://github.com/wzhudev/reverse-linear-sync-engine)<br>
+1. ⭐ Starred [whladi1m/Schedule-I-Decompiled](https://github.com/whladi1m/Schedule-I-Decompiled)<br>
+2. ⭐ Starred [wzhudev/reverse-linear-sync-engine](https://github.com/wzhudev/reverse-linear-sync-engine)<br>
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Wednesday, June 4th, 2025, 8:20:07 AM
+Last Updated: Wednesday, June 4th, 2025, 8:47:37 AM
 <!--RECENT_ACTIVITY:last_update_end-->
