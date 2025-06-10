@@ -24,11 +24,12 @@
 </p>
 
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [mosch/react-avatar-editor](https://github.com/mosch/react-avatar-editor)<br>
-2. ⭐ Starred [whladi1m/Schedule-I-Decompiled](https://github.com/whladi1m/Schedule-I-Decompiled)<br>
-3. ⭐ Starred [wzhudev/reverse-linear-sync-engine](https://github.com/wzhudev/reverse-linear-sync-engine)<br>
+1. ⭐ Starred [apteryxxyz/steam-plugin-non-steam-playtimes](https://github.com/apteryxxyz/steam-plugin-non-steam-playtimes)<br>
+2. ⭐ Starred [mosch/react-avatar-editor](https://github.com/mosch/react-avatar-editor)<br>
+3. ⭐ Starred [whladi1m/Schedule-I-Decompiled](https://github.com/whladi1m/Schedule-I-Decompiled)<br>
+4. ⭐ Starred [wzhudev/reverse-linear-sync-engine](https://github.com/wzhudev/reverse-linear-sync-engine)<br>
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Tuesday, June 10th, 2025, 7:14:05 AM
+Last Updated: Tuesday, June 10th, 2025, 7:37:54 AM
 <!--RECENT_ACTIVITY:last_update_end-->
