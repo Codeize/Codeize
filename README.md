@@ -24,12 +24,13 @@
 </p>
 
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [apteryxxyz/steam-plugin-non-steam-playtimes](https://github.com/apteryxxyz/steam-plugin-non-steam-playtimes)<br>
-2. ⭐ Starred [mosch/react-avatar-editor](https://github.com/mosch/react-avatar-editor)<br>
-3. ⭐ Starred [whladi1m/Schedule-I-Decompiled](https://github.com/whladi1m/Schedule-I-Decompiled)<br>
-4. ⭐ Starred [wzhudev/reverse-linear-sync-engine](https://github.com/wzhudev/reverse-linear-sync-engine)<br>
+1. ⭐ Starred [apteryxxyz/Evaluate](https://github.com/apteryxxyz/Evaluate)<br>
+2. ⭐ Starred [apteryxxyz/steam-plugin-non-steam-playtimes](https://github.com/apteryxxyz/steam-plugin-non-steam-playtimes)<br>
+3. ⭐ Starred [mosch/react-avatar-editor](https://github.com/mosch/react-avatar-editor)<br>
+4. ⭐ Starred [whladi1m/Schedule-I-Decompiled](https://github.com/whladi1m/Schedule-I-Decompiled)<br>
+5. ⭐ Starred [wzhudev/reverse-linear-sync-engine](https://github.com/wzhudev/reverse-linear-sync-engine)<br>
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Tuesday, June 17th, 2025, 3:01:20 AM
+Last Updated: Tuesday, June 17th, 2025, 3:59:22 AM
 <!--RECENT_ACTIVITY:last_update_end-->
