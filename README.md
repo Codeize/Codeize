@@ -24,13 +24,13 @@
 </p>
 
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [apteryxxyz/Evaluate](https://github.com/apteryxxyz/Evaluate)<br>
-2. ⭐ Starred [apteryxxyz/steam-plugin-non-steam-playtimes](https://github.com/apteryxxyz/steam-plugin-non-steam-playtimes)<br>
-3. ⭐ Starred [mosch/react-avatar-editor](https://github.com/mosch/react-avatar-editor)<br>
-4. ⭐ Starred [whladi1m/Schedule-I-Decompiled](https://github.com/whladi1m/Schedule-I-Decompiled)<br>
-5. ⭐ Starred [wzhudev/reverse-linear-sync-engine](https://github.com/wzhudev/reverse-linear-sync-engine)<br>
+1. ⬆️ Pushed 1 commit(s) to [buape/kiai-docs](https://github.com/buape/kiai-docs)<br>
+2. ⬆️ Pushed 1 commit(s) to [buape/kiai-docs](https://github.com/buape/kiai-docs)<br>
+3. ⭐ Starred [apteryxxyz/Evaluate](https://github.com/apteryxxyz/Evaluate)<br>
+4. ⭐ Starred [apteryxxyz/steam-plugin-non-steam-playtimes](https://github.com/apteryxxyz/steam-plugin-non-steam-playtimes)<br>
+5. ⭐ Starred [mosch/react-avatar-editor](https://github.com/mosch/react-avatar-editor)<br>
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Wednesday, June 18th, 2025, 9:37:38 PM
+Last Updated: Wednesday, June 18th, 2025, 10:13:27 PM
 <!--RECENT_ACTIVITY:last_update_end-->
