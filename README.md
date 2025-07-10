@@ -27,9 +27,8 @@
 1. ⬆️ Pushed 1 commit(s) to [buape/kiai-docs](https://github.com/buape/kiai-docs)<br>
 2. ⬆️ Pushed 1 commit(s) to [buape/kiai-docs](https://github.com/buape/kiai-docs)<br>
 3. ⭐ Starred [apteryxxyz/Evaluate](https://github.com/apteryxxyz/Evaluate)<br>
-4. ⭐ Starred [apteryxxyz/steam-plugin-non-steam-playtimes](https://github.com/apteryxxyz/steam-plugin-non-steam-playtimes)<br>
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Thursday, July 10th, 2025, 7:40:02 AM
+Last Updated: Thursday, July 10th, 2025, 8:20:15 AM
 <!--RECENT_ACTIVITY:last_update_end-->
