@@ -24,13 +24,13 @@
 </p>
 
 <!--RECENT_ACTIVITY:start-->
-1. ✔️ Closed issue [#234](https://github.com/buape/carbon/issues/234) in [buape/carbon](https://github.com/buape/carbon)<br>
-2. 👍 Approved [#312](https://github.com/buape/carbon/pull/312#pullrequestreview-3327145106) in [buape/carbon](https://github.com/buape/carbon)<br>
-3. ⬆️ Pushed undefined commit(s) to [buape/carbon](https://github.com/buape/carbon)<br>
-4. ⬆️ Pushed undefined commit(s) to [buape/carbon](https://github.com/buape/carbon)<br>
+1. ⬆️ Pushed undefined commit(s) to [buape/buape-com](https://github.com/buape/buape-com)<br>
+2. ⬆️ Pushed undefined commit(s) to [buape/buape-com](https://github.com/buape/buape-com)<br>
+3. ✔️ Closed issue [#234](https://github.com/buape/carbon/issues/234) in [buape/carbon](https://github.com/buape/carbon)<br>
+4. 👍 Approved [#312](https://github.com/buape/carbon/pull/312#pullrequestreview-3327145106) in [buape/carbon](https://github.com/buape/carbon)<br>
 5. ⬆️ Pushed undefined commit(s) to [buape/carbon](https://github.com/buape/carbon)<br>
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Friday, October 17th, 2025, 7:34:49 PM
+Last Updated: Friday, October 17th, 2025, 8:15:21 PM
 <!--RECENT_ACTIVITY:last_update_end-->
