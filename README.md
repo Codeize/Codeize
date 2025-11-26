@@ -24,11 +24,12 @@
 </p>
 
 <!--RECENT_ACTIVITY:start-->
-1. ⬆️ Pushed undefined commit(s) to [avasilic/carbon](https://github.com/avasilic/carbon)<br>
-2. ⭐ Starred [Brainrotlang/brainrot](https://github.com/Brainrotlang/brainrot)<br>
-3. ⭐ Starred [apteryxxyz/sayable](https://github.com/apteryxxyz/sayable)<br>
+1. ⭐ Starred [better-auth/better-auth](https://github.com/better-auth/better-auth)<br>
+2. ⬆️ Pushed undefined commit(s) to [avasilic/carbon](https://github.com/avasilic/carbon)<br>
+3. ⭐ Starred [Brainrotlang/brainrot](https://github.com/Brainrotlang/brainrot)<br>
+4. ⭐ Starred [apteryxxyz/sayable](https://github.com/apteryxxyz/sayable)<br>
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Wednesday, November 26th, 2025, 11:13:16 PM
+Last Updated: Wednesday, November 26th, 2025, 11:36:11 PM
 <!--RECENT_ACTIVITY:last_update_end-->
