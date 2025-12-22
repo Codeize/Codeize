@@ -24,12 +24,13 @@
 </p>
 
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [SparrowBrain/Playnite.YearInReview](https://github.com/SparrowBrain/Playnite.YearInReview)<br>
-2. ⭐ Starred [JosefNemec/Playnite](https://github.com/JosefNemec/Playnite)<br>
-3. 💬 Commented on [#329](https://github.com/buape/carbon/pull/329#issuecomment-3613685269) in [buape/carbon](https://github.com/buape/carbon)<br>
-4. ⭐ Starred [better-auth/better-auth](https://github.com/better-auth/better-auth)<br>
+1. ⭐ Starred [suhaybu/sanitizer-bot](https://github.com/suhaybu/sanitizer-bot)<br>
+2. ⭐ Starred [SparrowBrain/Playnite.YearInReview](https://github.com/SparrowBrain/Playnite.YearInReview)<br>
+3. ⭐ Starred [JosefNemec/Playnite](https://github.com/JosefNemec/Playnite)<br>
+4. 💬 Commented on [#329](https://github.com/buape/carbon/pull/329#issuecomment-3613685269) in [buape/carbon](https://github.com/buape/carbon)<br>
+5. ⭐ Starred [better-auth/better-auth](https://github.com/better-auth/better-auth)<br>
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Monday, December 22nd, 2025, 10:15:09 PM
+Last Updated: Monday, December 22nd, 2025, 10:42:22 PM
 <!--RECENT_ACTIVITY:last_update_end-->
