@@ -26,9 +26,8 @@
 <!--RECENT_ACTIVITY:start-->
 1. ⭐ Starred [suhaybu/sanitizer-bot](https://github.com/suhaybu/sanitizer-bot)<br>
 2. ⭐ Starred [SparrowBrain/Playnite.YearInReview](https://github.com/SparrowBrain/Playnite.YearInReview)<br>
-3. ⭐ Starred [JosefNemec/Playnite](https://github.com/JosefNemec/Playnite)<br>
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Tuesday, January 13th, 2026, 10:47:49 AM
+Last Updated: Tuesday, January 13th, 2026, 11:15:34 AM
 <!--RECENT_ACTIVITY:last_update_end-->
